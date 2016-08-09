@@ -16,12 +16,12 @@ hide: true
 
 | ![Antonio Bonafonte][AntonioBonafonte-photo] | ![Jose Adrián Rodríguez Fonollosa][JoseAdrian-photo] | ![Marta Ruiz][MartaRuiz-photo] | ![Javier Hernando][JavierHernando-photo] | ![Santiago Pascual][SantiagoPascual-photo] | ![Elisa Sayrol][ElisaSayrol-photo]  | ![Xavier Giro-i-Nieto][XavierGiro-photo]
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [Antonio Bonafonte (AF)][AnotonioBonafonte-web] | Jose Adrián Rodríguez Fonollosa (JA)][JoseAdrian-web] | Marta Ruiz (MR)][MartaRuiz-web] | Javier Hernando (JH)][Javier Hernando-web] | Santiago Pascual (SP)][SantiagoPascual-web] |  [Elisa Sayrol (ES)][ElisaSayrol-web]  | [Xavier Giro-i-Nieto (XG)][XavierGiro-web] |
+| [Antonio Bonafonte (AF)][AnotonioBonafonte-web] | [Jose Adrián Rodríguez Fonollosa (JA)][JoseAdrian-web] | [Marta Ruiz (MR)][MartaRuiz-web] | [Javier Hernando (JH)][Javier Hernando-web] | [Santiago Pascual (SP)][SantiagoPascual-web] |  [Elisa Sayrol (ES)][ElisaSayrol-web]  | [Xavier Giro-i-Nieto (XG)][XavierGiro-web] |
 
 [AntonioBonafonte-photo]: img/instructors/AntonioBonafonte.jpg "AntonioBonafonte"
 [JoseAdrian-photo]: img/instructors/JoseAdrian.jpg "Jose Adrián Rodríguez Fonollosa"
 [MartaRuiz-photo]: img/instructors/MartaRuiz.jpg "Marta Ruiz"
-[JavierHernado-photo]: img/instructors/JavierHernando.jpg "Javier Hernando"
+[JavierHernado-photo]: img/instructors/JavierHernando-120x120.jpg "Javier Hernando"
 [SantiagoPascual-photo]: img/instructors/SantiagoPascual.jpg "Santiago Pascual"
 [ElisaSayrol-photo]: img/instructors/ElisaSayrol.jpg "Elisa Sayrol"
 [XavierGiro-photo]: img/instructors/XavierGiro.jpg "Xavier Giro-i-Nieto"
@@ -31,9 +31,8 @@ hide: true
 [MartaRuiz-web]: http://futur.upc.edu/MartaRuizCostajussa
 [JavierHernado-web]: http://futur.upc.edu/FranciscoJavierHernandoPericas
 [SantiagoPascual-web]: https://github.com/santi-pdp
-[XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
 [ElisaSayrol-web]: https://imatge.upc.edu/web/people/elisa-sayrol
-
+[XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
 
 ## Organizers
 
