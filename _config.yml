@@ -1,14 +1,14 @@
 # SITE CONFIGURATION
-baseurl: "/telecombcn-2016-dlcv" # the subpath of your site, e.g. /blog/
-url: "http://imatge-upc.github.io" # the base hostname & protocol for your site
+baseurl: "/2017-dlsl" # the subpath of your site, e.g. /blog/
+url: "http://telecombcn-dl.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Deep Learning for Computer Vision Barcelona
+  title: Deep Learning for Speech and Language
   avatar:
   gravatar: # Email MD5 hash
-  description: "Summer Seminar ETSETB TelecomBCN, 4-8 July 2016" # used by search engines
+  description: "Witner Seminar ETSETB TelecomBCN, 27-31 January 2017" # used by search engines
 
   # Header and footer text
   header_text:
@@ -23,7 +23,7 @@ theme:
   dribbble:
   facebook:
   flickr:
-  github: "imatge-upc/telecombcn-2016-dlcv"
+  github: "telecombcn-dl/2017-dlsl"
   google_plus:
   instagram:
   linkedin:  # Full URL

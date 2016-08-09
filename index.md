@@ -6,7 +6,7 @@ feature-img: "img/upc_heading.jpg"
 hide: true
 ---
 
-# Deep Learning for Language and Speech
+# Deep Learning for Speech and Language
 
 ### Winter seminar UPC TelecomBCN (January 24-31, 2017)
 
