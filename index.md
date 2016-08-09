@@ -76,7 +76,7 @@ Sessions will be recorded in video and posted afterwards, together with the slid
 * Yann LeCun, ["Deep Learning: Nine Lectures at Collège de France"](http://cilvr.nyu.edu/doku.php?id=courses%3Adeeplearning-cdf2016%3Astart). Collège de France, Spring 2016. [[Facebook page](https://www.facebook.com/deeplearningcdf/?fref=nf)]
 * Dhruv Batra, ["ECE 6504: Deep learning for perception"](https://computing.ece.vt.edu/~f15ece6504/). Virginia Tech, Fall 2015.
 * Vincent Vanhoucke, Arpan Chakraborty, ["Deep Learning"](https://www.udacity.com/course/deep-learning--ud730). Google 2016.
-
+* Thang Luong, Kyunghyun Cho, Christopher Manning ["Neural Machine Translation"](https://sites.google.com/site/acl16nmt/). Tutorial ACVL 2016.
 
 
 ## Acknowledgements
