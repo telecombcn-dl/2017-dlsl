@@ -16,7 +16,7 @@ hide: true
 
 | ![Antonio Bonafonte][AntonioBonafonte-photo] | ![Jose Adrián Rodríguez Fonollosa][JoseAdrian-photo] | ![Marta Ruiz][MartaRuiz-photo] | ![Javier Hernando][JavierHernando-photo] | ![Santiago Pascual][SantiagoPascual-photo] | ![Elisa Sayrol][ElisaSayrol-photo]  | ![Xavier Giro-i-Nieto][XavierGiro-photo]
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [Antonio Bonafonte (AF)][AnotonioBonafonte-web] | [Jose Adrián Rodríguez Fonollosa (JA)][JoseAdrian-web] | [Marta Ruiz (MR)][MartaRuiz-web] | [Javier Hernando (JH)][Javier Hernando-web] | [Santiago Pascual (SP)][SantiagoPascual-web] |  [Elisa Sayrol (ES)][ElisaSayrol-web]  | [Xavier Giro-i-Nieto (XG)][XavierGiro-web] |
+| [Antonio Bonafonte (AF)][AnotonioBonafonte-web] | [Jose Adrián Rodríguez Fonollosa (JA)][JoseAdrian-web] | [Marta Ruiz Costa-jussà (MR)][MartaRuiz-web] | [Javier Hernando (JH)][Javier Hernando-web] | [Santiago Pascual (SP)][SantiagoPascual-web] |  [Elisa Sayrol (ES)][ElisaSayrol-web]  | [Xavier Giro-i-Nieto (XG)][XavierGiro-web] |
 
 [AntonioBonafonte-photo]: img/instructors/AntonioBonafonte.jpg "AntonioBonafonte"
 [JoseAdrian-photo]: img/instructors/JoseAdrian.jpg "Jose Adrián Rodríguez Fonollosa"
@@ -57,7 +57,7 @@ hide: true
 * ECTS credits: 2.5 (Phd & master) / 2 (bachelor) (corresponds to **full-time dedication** during the week course)
 * Teaching language: English
 * The course is offered for both master and bachelor students, but under two study programmes adapted to each profile.
-* Class Dates: 24, 25, 26, 27 and 31 January 2017.
+* Class Dates: 24, 25, 26, 27 and 31 January 2017 (no class on January 30).
 * Class Schedule: 10am-2pm (you will need 6 extra hours a day for homework during the week course)
 * Capacity: 15 MSc/Phd students + 15 BSc students
 * Location: [Campus Nord UPC, Module D5, Room 010](https://imatge.upc.edu/web/contact)
@@ -76,7 +76,7 @@ Sessions will be recorded in video and posted afterwards, together with the slid
 * Yann LeCun, ["Deep Learning: Nine Lectures at Collège de France"](http://cilvr.nyu.edu/doku.php?id=courses%3Adeeplearning-cdf2016%3Astart). Collège de France, Spring 2016. [[Facebook page](https://www.facebook.com/deeplearningcdf/?fref=nf)]
 * Dhruv Batra, ["ECE 6504: Deep learning for perception"](https://computing.ece.vt.edu/~f15ece6504/). Virginia Tech, Fall 2015.
 * Vincent Vanhoucke, Arpan Chakraborty, ["Deep Learning"](https://www.udacity.com/course/deep-learning--ud730). Google 2016.
-* Thang Luong, Kyunghyun Cho, Christopher Manning ["Neural Machine Translation"](https://sites.google.com/site/acl16nmt/). Tutorial ACVL 2016.
+* Thang Luong, Kyunghyun Cho, Christopher Manning ["Neural Machine Translation"](https://sites.google.com/site/acl16nmt/). Tutorial ACL 2016.
 
 
 ## Acknowledgements
