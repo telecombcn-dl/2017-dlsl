@@ -26,6 +26,14 @@ hide: true
 [ElisaSayrol-photo]: img/instructors/ElisaSayrol.jpg "Elisa Sayrol"
 [XavierGiro-photo]: img/instructors/XavierGiro.jpg "Xavier Giro-i-Nieto"
 
+[AntonioBonafonte-web]: http://futur.upc.edu/AntonioJesusBonafonteCavez
+[JoseAdrian-web]: http://futur.upc.edu/JoseAdrianRodriguezFonollosa
+[MartaRuiz-web]: http://futur.upc.edu/MartaRuizCostajussa
+[JavierHernado-web]: http://futur.upc.edu/FranciscoJavierHernandoPericas
+[SantiagoPascual-web]: https://github.com/santi-pdp
+[XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
+[ElisaSayrol-web]: https://imatge.upc.edu/web/people/elisa-sayrol
+
 
 ## Organizers
 
