@@ -21,7 +21,7 @@ hide: true
 [AntonioBonafonte-photo]: img/instructors/AntonioBonafonte.jpg "AntonioBonafonte"
 [JoseAdrian-photo]: img/instructors/JoseAdrian.jpg "Jose Adrián Rodríguez Fonollosa"
 [MartaRuiz-photo]: img/instructors/MartaRuiz.jpg "Marta Ruiz"
-[JavierHernado-photo]: img/instructors/JavierHernando-120x120.jpg "Javier Hernando"
+[JavierHernando-photo]: img/instructors/JavierHernando-120x120.jpg "Javier Hernando"
 [SantiagoPascual-photo]: img/instructors/SantiagoPascual.jpg "Santiago Pascual"
 [ElisaSayrol-photo]: img/instructors/ElisaSayrol.jpg "Elisa Sayrol"
 [XavierGiro-photo]: img/instructors/XavierGiro.jpg "Xavier Giro-i-Nieto"
@@ -46,11 +46,10 @@ hide: true
 [gpi-web]: https://imatge.upc.edu/web/
 
 [logo-etsetb]: img/logos/etsetb.png "ETSETB TelecomBCN"
+[logo-talp]: img/logos/talp.png "UPC Center for Language and Speech Technologies and Applications"
 [logo-gpi]: img/logos/gpi.png "UPC Image Processing Group"
 [logo-upc]: img/logos/upc.jpg "Universitat Politecnica de Catalunya"
-[logo-bsc]: img/logos/bsc.gif "Barcelona Supercomputing Center"
-[logo-insight]: img/logos/insight.jpg "Insight Centre for Data Analytics"
-[logo-dcu]: img/logos/dcu.png "Dublin City University"
+
 
 
 ## Practical
