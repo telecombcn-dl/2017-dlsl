@@ -16,12 +16,12 @@ hide: true
 
 | ![Antonio Bonafonte][AntonioBonafonte-photo] | ![Jose Adrián Rodríguez Fonollosa][JoseAdrian-photo] | ![Marta Ruiz][MartaRuiz-photo] | ![Javier Hernando][JavierHernando-photo] | ![Santiago Pascual][SantiagoPascual-photo] | ![Elisa Sayrol][ElisaSayrol-photo]  | ![Xavier Giro-i-Nieto][XavierGiro-photo]
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [Antonio Bonafonte (AF)][AnotonioBonafonte-web] | [Jose Adrián Rodríguez Fonollosa (JA)][JoseAdrian-web] | [Marta Ruiz (MR)][MartaRuiz-web] | [Javier Hernando (JH)][Javier Hernando-web] | [Santiago Pascual (SP)][SantiagoPascual-web] |  [Elisa Sayrol (ES)][ElisaSayrol-web]  | [Xavier Giro-i-Nieto (XG)][XavierGiro-web] |
+| [Antonio Bonafonte (AF)][AnotonioBonafonte-web] | [Jose Adrián Rodríguez Fonollosa (JA)][JoseAdrian-web] | [Marta Ruiz Costa-jussà (MR)][MartaRuiz-web] | [Javier Hernando (JH)][Javier Hernando-web] | [Santiago Pascual (SP)][SantiagoPascual-web] |  [Elisa Sayrol (ES)][ElisaSayrol-web]  | [Xavier Giro-i-Nieto (XG)][XavierGiro-web] |
 
 [AntonioBonafonte-photo]: img/instructors/AntonioBonafonte.jpg "AntonioBonafonte"
 [JoseAdrian-photo]: img/instructors/JoseAdrian.jpg "Jose Adrián Rodríguez Fonollosa"
 [MartaRuiz-photo]: img/instructors/MartaRuiz.jpg "Marta Ruiz"
-[JavierHernado-photo]: img/instructors/JavierHernando-120x120.jpg "Javier Hernando"
+[JavierHernando-photo]: img/instructors/JavierHernando-120x120.jpg "Javier Hernando"
 [SantiagoPascual-photo]: img/instructors/SantiagoPascual.jpg "Santiago Pascual"
 [ElisaSayrol-photo]: img/instructors/ElisaSayrol.jpg "Elisa Sayrol"
 [XavierGiro-photo]: img/instructors/XavierGiro.jpg "Xavier Giro-i-Nieto"
@@ -46,19 +46,18 @@ hide: true
 [gpi-web]: https://imatge.upc.edu/web/
 
 [logo-etsetb]: img/logos/etsetb.png "ETSETB TelecomBCN"
+[logo-talp]: img/logos/talp.png "UPC Center for Language and Speech Technologies and Applications"
 [logo-gpi]: img/logos/gpi.png "UPC Image Processing Group"
 [logo-upc]: img/logos/upc.jpg "Universitat Politecnica de Catalunya"
-[logo-bsc]: img/logos/bsc.gif "Barcelona Supercomputing Center"
-[logo-insight]: img/logos/insight.jpg "Insight Centre for Data Analytics"
-[logo-dcu]: img/logos/dcu.png "Dublin City University"
+
 
 
 ## Practical
-* Course code: [230360](http://infoteleco.upc.edu/documents/guia_docent/assignatures/all/ang/230360.pdf) (Phd & master) / [230324](http://www.etsetb.upc.edu/ca/shared/curs-actual/seminaris/Fitxa_guia_docent_seminari_grau_IDLCV.pdf) (Bachelor)
+* Course code: [230362](http://www.etsetb.upc.edu/ca/shared/curs-actual/seminaris/seminaris_masters_t16-17_gener-febrer.pdf) (Phd & master) / [230325](https://www.etsetb.upc.edu/ca/shared/curs-actual/seminaris/SeminarisgraustardorT1617.pdf) (Bachelor)
 * ECTS credits: 2.5 (Phd & master) / 2 (bachelor) (corresponds to **full-time dedication** during the week course)
 * Teaching language: English
 * The course is offered for both master and bachelor students, but under two study programmes adapted to each profile.
-* Class Dates: 24, 25, 26, 27 and 31 January 2017.
+* Class Dates: 24, 25, 26, 27 and 31 January 2017 (there are no sessions on January 30).
 * Class Schedule: 10am-2pm (you will need 6 extra hours a day for homework during the week course)
 * Capacity: 15 MSc/Phd students + 15 BSc students
 * Location: [Campus Nord UPC, Module D5, Room 010](https://imatge.upc.edu/web/contact)
@@ -77,7 +76,7 @@ Sessions will be recorded in video and posted afterwards, together with the slid
 * Yann LeCun, ["Deep Learning: Nine Lectures at Collège de France"](http://cilvr.nyu.edu/doku.php?id=courses%3Adeeplearning-cdf2016%3Astart). Collège de France, Spring 2016. [[Facebook page](https://www.facebook.com/deeplearningcdf/?fref=nf)]
 * Dhruv Batra, ["ECE 6504: Deep learning for perception"](https://computing.ece.vt.edu/~f15ece6504/). Virginia Tech, Fall 2015.
 * Vincent Vanhoucke, Arpan Chakraborty, ["Deep Learning"](https://www.udacity.com/course/deep-learning--ud730). Google 2016.
-
+* Thang Luong, Kyunghyun Cho, Christopher Manning ["Neural Machine Translation"](https://sites.google.com/site/acl16nmt/). Tutorial ACL 2016.
 
 
 ## Acknowledgements
