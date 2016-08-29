@@ -18,9 +18,9 @@ hide: true
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [Antonio Bonafonte (AF)][AnotonioBonafonte-web] | [Jose Adrián Rodríguez Fonollosa (JA)][JoseAdrian-web] | [Marta Ruiz Costa-jussà (MR)][MartaRuiz-web] | [Javier Hernando (JH)][Javier Hernando-web] | [Santiago Pascual (SP)][SantiagoPascual-web] |  [Elisa Sayrol (ES)][ElisaSayrol-web]  | [Xavier Giro-i-Nieto (XG)][XavierGiro-web] |
 
-[AntonioBonafonte-photo]: img/instructors/AntonioBonafonte.jpg "AntonioBonafonte"
-[JoseAdrian-photo]: img/instructors/JoseAdrian.jpg "Jose Adrián Rodríguez Fonollosa"
-[MartaRuiz-photo]: img/instructors/MartaRuiz.jpg "Marta Ruiz"
+[AntonioBonafonte-photo]: img/instructors/ToniBonafonte-160x160.jpg "AntonioBonafonte"
+[JoseAdrian-photo]: img/instructors/JoseAdrian-160x160.jpg "Jose Adrián Rodríguez Fonollosa"
+[MartaRuiz-photo]: img/instructors/MartaRuiz-160x160.jpg "Marta Ruiz"
 [JavierHernando-photo]: img/instructors/JavierHernando-120x120.jpg "Javier Hernando"
 [SantiagoPascual-photo]: img/instructors/SantiagoPascual.jpg "Santiago Pascual"
 [ElisaSayrol-photo]: img/instructors/ElisaSayrol.jpg "Elisa Sayrol"
