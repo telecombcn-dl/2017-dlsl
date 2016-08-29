@@ -22,7 +22,7 @@ hide: true
 [JoseAdrian-photo]: img/instructors/JoseAdrian-160x160.jpg "Jose Adrián Rodríguez Fonollosa"
 [MartaRuiz-photo]: img/instructors/MartaRuiz-160x160.jpg "Marta Ruiz"
 [JavierHernando-photo]: img/instructors/JavierHernando-120x120.jpg "Javier Hernando"
-[SantiagoPascual-photo]: img/instructors/SantiagoPascual.jpg "Santiago Pascual"
+[SantiagoPascual-photo]: img/instructors/SantiPascual-160x160.jpg "Santiago Pascual"
 [ElisaSayrol-photo]: img/instructors/ElisaSayrol.jpg "Elisa Sayrol"
 [XavierGiro-photo]: img/instructors/XavierGiro.jpg "Xavier Giro-i-Nieto"
 
