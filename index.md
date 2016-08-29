@@ -71,12 +71,15 @@ Sessions will be recorded in video and posted afterwards, together with the slid
 ## Related courses
 
 * Richard Socher, ["CS224d: Deep Learning for Natural Language Processing"](http://cs224d.stanford.edu/). Stanford University 2016.
+* Thang Luong, Kyunghyun Cho, Christopher Manning ["Neural Machine Translation"](https://sites.google.com/site/acl16nmt/). Tutorial ACL 2016.
+* Aaron Courville and Yoshua Bengio, ["Deep Learning Summer School"](https://sites.google.com/site/deeplearningsummerschool2016/home). Montreal 2016.
 * Hugo Larochelle, ["Neural Networks"](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html). Université de Sheerbroke.
 * Joan Bruna, ["Stats212b: Topics on Deep Learning"](https://github.com/joanbruna/stat212b). Berkeley University. Spring 2016.
 * Yann LeCun, ["Deep Learning: Nine Lectures at Collège de France"](http://cilvr.nyu.edu/doku.php?id=courses%3Adeeplearning-cdf2016%3Astart). Collège de France, Spring 2016. [[Facebook page](https://www.facebook.com/deeplearningcdf/?fref=nf)]
 * Dhruv Batra, ["ECE 6504: Deep learning for perception"](https://computing.ece.vt.edu/~f15ece6504/). Virginia Tech, Fall 2015.
 * Vincent Vanhoucke, Arpan Chakraborty, ["Deep Learning"](https://www.udacity.com/course/deep-learning--ud730). Google 2016.
-* Thang Luong, Kyunghyun Cho, Christopher Manning ["Neural Machine Translation"](https://sites.google.com/site/acl16nmt/). Tutorial ACL 2016.
+
+
 
 
 ## Acknowledgements
