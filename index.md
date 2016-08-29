@@ -26,7 +26,7 @@ hide: true
 [ElisaSayrol-photo]: img/instructors/ElisaSayrol.jpg "Elisa Sayrol"
 [XavierGiro-photo]: img/instructors/XavierGiro.jpg "Xavier Giro-i-Nieto"
 
-[AntonioBonafonte-web]: https://scholar.google.es/citations?user=C5AUXO4AAAAJ&hl=en&oi=ao
+[AntonioBonafonte-web]: http://futur.upc.edu/AntonioJesusBonafonteCavez
 [JoseAdrian-web]: http://futur.upc.edu/JoseAdrianRodriguezFonollosa
 [MartaRuiz-web]: http://futur.upc.edu/MartaRuizCostajussa
 [JavierHernado-web]: https://scholar.google.es/citations?user=dTPbsfMAAAAJ&hl=en&oi=ao
@@ -37,7 +37,7 @@ hide: true
 ## Organizers
 
 | ![logo-etsetb] | ![logo-talp] | ![logo-gpi] | ![logo-upc] | 
-|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|
+|:------------:|:------------:|:------------:|:------------:|
 | [UPC ETSETB TelecomBCN](etsetb-web) | [UPC TALP Group](talp-web) | [UPC Image Processing Group](gpi-web) | [Universitat Politecnica de Catalunya (UPC)](upc-web) |
 
 [etsetb-web]: https://www.etsetb.upc.edu/en/
