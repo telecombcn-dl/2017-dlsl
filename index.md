@@ -14,7 +14,7 @@ hide: true
 
 ## Course Instructors
 
-| ![Antonio Bonafonte][AntonioBonafonte-photo] | ![Jose Adrián Rodríguez Fonollosa][JoseAdrian-photo] | ![Marta Ruiz][MartaRuiz-photo] | ![Javier Hernando][JavierHernando-photo] | ![Santiago Pascual][SantiagoPascual-photo] | ![Elisa Sayrol][ElisaSayrol-photo]  | ![Xavier Giro-i-Nieto][XavierGiro-photo]
+| ![Antonio Bonafonte][AntonioBonafonte-photo] | ![Jose Adrián Rodríguez Fonollosa][JoseAdrian-photo] | ![Marta Ruiz][MartaRuiz-photo] | ![Javier Hernando][JavierHernando-photo] | ![Santiago Pascual][SantiagoPascual-photo] | ![Elisa Sayrol][ElisaSayrol-photo]  | ![Xavier Giro-i-Nieto][XavierGiro-photo] |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | [Antonio Bonafonte (AF)][AnotonioBonafonte-web] | [Jose Adrián Rodríguez Fonollosa (JA)][JoseAdrian-web] | [Marta Ruiz Costa-jussà (MR)][MartaRuiz-web] | [Javier Hernando (JH)][Javier Hernando-web] | [Santiago Pascual (SP)][SantiagoPascual-web] |  [Elisa Sayrol (ES)][ElisaSayrol-web]  | [Xavier Giro-i-Nieto (XG)][XavierGiro-web] |
 
@@ -26,10 +26,10 @@ hide: true
 [ElisaSayrol-photo]: img/instructors/ElisaSayrol.jpg "Elisa Sayrol"
 [XavierGiro-photo]: img/instructors/XavierGiro.jpg "Xavier Giro-i-Nieto"
 
-[AntonioBonafonte-web]: http://futur.upc.edu/AntonioJesusBonafonteCavez
+[AntonioBonafonte-web]: https://scholar.google.es/citations?user=C5AUXO4AAAAJ&hl=en&oi=ao
 [JoseAdrian-web]: http://futur.upc.edu/JoseAdrianRodriguezFonollosa
 [MartaRuiz-web]: http://futur.upc.edu/MartaRuizCostajussa
-[JavierHernado-web]: http://futur.upc.edu/FranciscoJavierHernandoPericas
+[JavierHernado-web]: https://scholar.google.es/citations?user=dTPbsfMAAAAJ&hl=en&oi=ao
 [SantiagoPascual-web]: https://github.com/santi-pdp
 [ElisaSayrol-web]: https://imatge.upc.edu/web/people/elisa-sayrol
 [XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
