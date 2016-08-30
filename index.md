@@ -81,8 +81,6 @@ Sessions will be recorded in video and posted afterwards, together with the slid
 * Vincent Vanhoucke, Arpan Chakraborty, ["Deep Learning"](https://www.udacity.com/course/deep-learning--ud730). Google 2016.
 
 
-
-
 ## Acknowledgements
 
-We are currently looking for sponsors. Please contact us if you want your company or organization to support this seminar.
+We are currently looking for sponsors. Please contact [Professor Toni Bonafonte](antonio.bonafonte@upc.edu) if you want your company or organization to support this seminar.
