@@ -13,7 +13,7 @@ hide: true
 (Course description to be completed)
 
 ## Course Instructors
-<!---
+
 | ![Antonio Bonafonte][AntonioBonafonte-photo] | ![Jose Adrián Rodríguez Fonollosa][JoseAdrian-photo] | ![Marta Ruiz][MartaRuiz-photo] | ![Javier Hernando][JavierHernando-photo] | ![Santiago Pascual][SantiagoPascual-photo] | ![Elisa Sayrol][ElisaSayrol-photo]  | ![Xavier Giro-i-Nieto][XavierGiro-photo] |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | [Antonio Bonafonte (AF)][AntonioBonafonte-web] | [Jose Adrián Rodríguez Fonollosa (JA)][JoseAdrian-web] | [Marta Ruiz Costa-jussà (MR)][MartaRuiz-web] | [Javier Hernando (JH)][JavierHernando-web] | [Santiago Pascual (SP)][SantiagoPascual-web] |  [Elisa Sayrol (ES)][ElisaSayrol-web]  | [Xavier Giro-i-Nieto (XG)][XavierGiro-web] |
@@ -33,7 +33,7 @@ hide: true
 [SantiagoPascual-web]: https://github.com/santi-pdp
 [ElisaSayrol-web]: https://imatge.upc.edu/web/people/elisa-sayrol
 [XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
--->
+
 
 ## Organizers
 
@@ -69,7 +69,12 @@ Sessions will be recorded in video and posted afterwards, together with the slid
 
 ## Contact
 
-<!---
+If you have any general question about the course, please use the public issues section of this repo. Otherwise, you can send an e-mail to  [Xavier Giro-i-Nieto](xavier.giro@upc.edu).
+
+## Sponsorship
+
+We are currently looking for sponsors. Please contact [Antonio Bonafonte](antonio.bonafonte@upc.edu) if you want your company or organization to support this seminar.
+
 ## Related courses
 
 * Richard Socher, ["CS224d: Deep Learning for Natural Language Processing"](http://cs224d.stanford.edu/). Stanford University 2016.
@@ -82,7 +87,5 @@ Sessions will be recorded in video and posted afterwards, together with the slid
 * Vincent Vanhoucke, Arpan Chakraborty, ["Deep Learning"](https://www.udacity.com/course/deep-learning--ud730). Google 2016.
 
 
-## Sponsorship
 
-We are currently looking for sponsors. Please contact [Professor Toni Bonafonte](antonio.bonafonte@upc.edu) if you want your company or organization to support this seminar.
--->
+
