@@ -3,7 +3,7 @@ baseurl: "/2017-dlsl" # the subpath of your site, e.g. /blog/
 url: "http://telecombcn-dl.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
-theme:
+theme_settings:
   # Meta
   title: Deep Learning for Speech and Language
   avatar:
