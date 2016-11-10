@@ -54,7 +54,7 @@ The aim of this course is to train students in methods of deep learning for spee
 
 
 ## Practical
-* Course code: [230362](http://www.etsetb.upc.edu/ca/shared/curs-actual/seminaris/seminaris_masters_t16-17_gener-febrer.pdf) (Phd & master) / [230325](https://www.etsetb.upc.edu/ca/shared/curs-actual/seminaris/SeminarisgraustardorT1617.pdf) (Bachelor)
+* Course code: [230362](http://infoteleco.upc.edu/documents/guia_docent/assignatures/all/ang/230362.pdf) (Phd & master) / [230325](http://infoteleco.upc.edu/documents/guia_docent/assignatures/SisAud/230324.pdf) (Bachelor)
 * ECTS credits: 2.5 (Phd & master) / 2 (bachelor) (corresponds to **full-time dedication** during the week course)
 * Teaching language: English
 * The course is offered for both master and bachelor students, but under two study programmes adapted to each profile.
@@ -62,6 +62,17 @@ The aim of this course is to train students in methods of deep learning for spee
 * Class Schedule: 10am-2pm (you will need 6 extra hours a day for homework during the week course)
 * Capacity: 15 MSc/Phd students + 15 BSc students
 * Location: [Campus Nord UPC, Module D5, Room 010](https://imatge.upc.edu/web/contact)
+
+## Registration
+Registration procedure depends on the student profile:
+
+* **Master and Phd students at UPC:** Follow [these instructions](http://etsetb.upc.edu/ca/estudis/curs-actual/seminaris/seminars-masters-telecom-electronic-engineering-pla-92) provided by ETSETB academic office. A new period of registration is expected to open during December (contact the academic office for more details).
+* **Bachelor students at UPC:** Follow [these instructions](http://etsetb.upc.edu/ca/estudis/curs-actual/seminaris/seminaris-dels-graus) provided by ETSETB academic office. A new period of registration is expected to open during December (contact the academic office for more details).
+* **Mobility students:** If your host institution has signed an agreement with UPC ETSETB Telecom BCN school, you can request a mobility from your host institution and sign up for the course under the same conditions as UPC Phd, master or bachelor students.
+* **Visiting students:** You must apply for being accepted in the course and cover the 100% cost of the ECTS credits, without the support of the public funds. This corresponds to 143,08 € per ECTS credit (Summer 2016). If you are interested in this option, please contact the [ETSETB Telecom BCN academic office](http://www.etsetb.upc.edu/ca/els-serveis/secretaria-oberta), with an e-mail to
+ secretaria@etsetb.upc.edu or calling at 93 405 4174 / 93 401 6772 / 93 401 5966 or 93 401 6750 in the morning (Monday to Thursday from 11 to 14 and Fridays from 11 to 13) or noons (Wednesdays and Thursdays from 16 to 17h).
+
+You are also encouraged to share your questions and solution in the [public issues](https://github.com/telecombcn-dl/2017-dlsl/issues) section for future reference and quality improvement of the course.
 
 ## Video recordings
 
