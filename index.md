@@ -14,7 +14,7 @@ The aim of this course is to train students in methods of deep learning for spee
 
 ## Course Instructors
 
-| ![Antonio Bonafonte][AntonioBonafonte-photo] | ![Jose Adrián Rodríguez Fonollosa][JoseAdrian-photo] | ![Marta Ruiz][MartaRuiz-photo] | ![Javier Hernando][JavierHernando-photo] | ![Santiago Pascual][SantiagoPascual-photo] | ![Elisa Sayrol][ElisaSayrol-photo]  | ![Xavier Giro-i-Nieto][XavierGiro-photo] |
+| ![Antonio Bonafonte][AntonioBonafonte-photo] | ![Jose Adrián Rodríguez Fonollosa][JoseAdrian-photo] | ![Marta R. Costa-jussà][MartaRuiz-photo] | ![Javier Hernando][JavierHernando-photo] | ![Santiago Pascual][SantiagoPascual-photo] | ![Elisa Sayrol][ElisaSayrol-photo]  | ![Xavier Giro-i-Nieto][XavierGiro-photo] |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | [Antonio Bonafonte (AF)][AntonioBonafonte-web] | [Jose Adrián Rodríguez Fonollosa (JA)][JoseAdrian-web] | [Marta Ruiz Costa-jussà (MR)][MartaRuiz-web] | [Javier Hernando (JH)][JavierHernando-web] | [Santiago Pascual (SP)][SantiagoPascual-web] |  [Elisa Sayrol (ES)][ElisaSayrol-web]  | [Xavier Giro-i-Nieto (XG)][XavierGiro-web] |
 
