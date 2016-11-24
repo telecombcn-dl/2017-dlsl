@@ -54,7 +54,7 @@ The aim of this course is to train students in methods of deep learning for spee
 
 
 ## Practical
-* Course code: [230362](http://infoteleco.upc.edu/documents/guia_docent/assignatures/all/ang/230362.pdf) (Phd & master) / [230325](http://infoteleco.upc.edu/documents/guia_docent/assignatures/SisAud/230324.pdf) (Bachelor)
+* Course code: [230362](http://infoteleco.upc.edu/documents/guia_docent/assignatures/all/ang/230362.pdf) (Phd & master) / [230325](http://infoteleco.upc.edu/documents/guia_docent/assignatures/SisAud/230325.pdf) (Bachelor)
 * ECTS credits: 2.5 (Phd & master) / 2 (bachelor) (corresponds to **full-time dedication** during the week course)
 * Teaching language: English
 * The course is offered for both master and bachelor students, but under two study programmes adapted to each profile.
