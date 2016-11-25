@@ -64,6 +64,7 @@ The aim of this course is to train students in methods of deep learning for spee
 * Location: [Campus Nord UPC, Module D5, Room 010](https://imatge.upc.edu/web/contact)
 
 ## Registration
+Registration will open at ETSETB academic office in a date **posterior and near Janury 10, 2017**.
 Registration procedure depends on the student profile:
 
 * **Master and Phd students at UPC:** Follow [these instructions](http://etsetb.upc.edu/ca/estudis/curs-actual/seminaris/seminars-masters-telecom-electronic-engineering-pla-92) provided by ETSETB academic office. A new period of registration is expected to open during December (contact the academic office for more details).
