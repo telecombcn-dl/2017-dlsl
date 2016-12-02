@@ -51,17 +51,30 @@ The aim of this course is to train students in methods of deep learning for spee
 [logo-gpi]: img/logos/gpi.png "UPC Image Processing Group"
 [logo-upc]: img/logos/upc.jpg "Universitat Politecnica de Catalunya"
 
-
-
 ## Practical
 * Course code: [230362](http://infoteleco.upc.edu/documents/guia_docent/assignatures/all/ang/230362.pdf) (Phd & master) / [230325](http://infoteleco.upc.edu/documents/guia_docent/assignatures/SisAud/230325.pdf) (Bachelor)
 * ECTS credits: 2.5 (Phd & master) / 2 (bachelor) (corresponds to **full-time dedication** during the week course)
 * Teaching language: English
 * The course is offered for both master and bachelor students, but under two study programmes adapted to each profile.
 * Class Dates: 24, 25, 26, 27 and 31 January 2017 (there are no sessions on January 30).
-* Class Schedule: 10am-2pm (you will need 6 extra hours a day for homework during the week course)
+* Class Schedule: 4 hours a day (you will need 6 extra hours a day for homework during the week course)
 * Capacity: 15 MSc/Phd students + 15 BSc students
 * Location: [Campus Nord UPC, Module D5, Room 010](https://imatge.upc.edu/web/contact)
+
+## Preliminary Schedule (draft)
+
+| When       | Tuesday 24             | Wedneday 25       | Thursday 26         | Friday 27         | Tuesday 31 8                 |
+|:----------:|:---------------------:|:------------------:|:-------------------:|:------------------:|:------------------------:|
+| a:00-a:20  | [Welcome]             | [DNN/DBN]          | [Architectures II]  | [ASR II]          | Project Expo 1            |
+| a:20-a:40  | [Classification]      | [Optimization]     | [ASR]               | [SpeakerID III]   | Project Expo 1            |
+| a:40-b:00  | [Deep]                | [Recurrent]        | [SpeakerID]         | [Translation III] | Project Expo 2            |
+| b:00-b:20  | [Frameworks]          | [Keras]            | [Translation]       | [Invited]         | Project Expo 2           | 
+| b:20-b:40  | [Keras]               | [Keras]            | [Synthesis]         | [Invited]         | Project Expo 3           | 
+| b:40-c:00  | [Keras]               | [Keras]            | [ASR II]            | [Invited]         | Project Expo 3           | 
+| c:00-c:20  | [Backpropagation]     | [Embeddings]       | [SpeakerID II]      |  [Synthesis III]  | Project Expo 4         |
+| c:20-c:40  | [Training]            | [Autoencoders]     | [Translation II]    |  [Vision]         | Project Expo 4           |
+| c:40-d:00  | [Architectures I]       | [LM]             | [Synthesis II]      |  [???]            | Project Expo 5               |
+| d:00-e:00  | [Project (MSc)]       | [Project (MSc)]    | [Project (MSc)]     | [Project]         | [Closing]            |
 
 ## Registration
 Registration will open at ETSETB academic office in a date **posterior and near Janury 10, 2017**.
