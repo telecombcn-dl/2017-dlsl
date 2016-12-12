@@ -34,6 +34,8 @@ The aim of this course is to train students in methods of deep learning for spee
 [ElisaSayrol-web]: https://imatge.upc.edu/web/people/elisa-sayrol
 [XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
 
+## Industry talk
+This edition of the seminar will include an industry talk by [Joan Serrà](http://www.tid.es/research/researchers/joan-serra), from [Telefonica Research](http://www.tid.es/research).
 
 ## Organizers
 
@@ -68,9 +70,9 @@ The aim of this course is to train students in methods of deep learning for spee
 | a:00-a:20  | [Welcome]             | [DNN/DBN]          | [Architectures II]  | [ASR II]          | Project Expo 1            |
 | a:20-a:40  | [Classification]      | [Optimization]     | [ASR]               | [SpeakerID III]   | Project Expo 1            |
 | a:40-b:00  | [Deep]                | [Recurrent]        | [SpeakerID]         | [Translation III] | Project Expo 2            |
-| b:00-b:20  | [Frameworks]          | [Keras]            | [Translation]       | [Invited]         | Project Expo 2           | 
-| b:20-b:40  | [Keras]               | [Keras]            | [Synthesis]         | [Invited]         | Project Expo 3           | 
-| b:40-c:00  | [Keras]               | [Keras]            | [ASR II]            | [Invited]         | Project Expo 3           | 
+| b:00-b:20  | [Frameworks]          | [Keras]            | [Translation]       | Telefonica         | Project Expo 2           | 
+| b:20-b:40  | [Keras]               | [Keras]            | [Synthesis]         | Telefonica         | Project Expo 3           | 
+| b:40-c:00  | [Keras]               | [Keras]            | [ASR II]            | Telefonica         | Project Expo 3           | 
 | c:00-c:20  | [Backpropagation]     | [Embeddings]       | [SpeakerID II]      |  [Synthesis III]  | Project Expo 4         |
 | c:20-c:40  | [Training]            | [Autoencoders]     | [Translation II]    |  [Vision]         | Project Expo 4           |
 | c:40-d:00  | [Architectures I]       | [LM]             | [Synthesis II]      |  [???]            | Project Expo 5               |
