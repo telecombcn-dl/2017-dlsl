@@ -72,10 +72,10 @@ Abstract: Deep learning has revolutionized the traditional machine learning pipe
 | When       | Tuesday 24            | Wedneday 25       | Thursday 26        | Friday 27         | Tuesday 31 8                 |
 |:----------:|:---------------------:|:-----------------:|:------------------:|:-----------------:|:------------------------:|
 | a:00-a:20  | Welcome               | DNN/DBN           | LM                 | SpeakerId II      | Project Expo 1            |
-| a:20-a:40  | Classification        | Recurrent I       | ASR                | Transaltion II    | Project Expo 1            |
+| a:20-a:40  | Classification        | Recurrent I       | ASR                | Translation II    | Project Expo 1            |
 | a:40-b:00  | Deep                  | Recurrent II      |                    |                   | Project Expo 2            |
 | b:00-b:20  | Architectures I       | Embeddings        | SpeakerID          | Industry talk     | Project Expo 2           | 
-| b:20-b:40  | Backpropagation       | Keras             | Transaltion I      |                   | Project Expo 3           | 
+| b:20-b:40  | Backpropagation       | Keras             | Translation I      |                   | Project Expo 3           | 
 | b:40-c:00  | Training              | Keras             |                    |                   | Project Expo 3           | 
 | c:00-c:20  | Keras                 | Keras             | Synthesis I        | Synthesis II      | Project Expo 4         |
 | c:20-c:40  | Keras                 | Unsupervised      | ASR II             | Multimodal        | Project Expo 4           |
