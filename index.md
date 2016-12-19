@@ -35,7 +35,11 @@ The aim of this course is to train students in methods of deep learning for spee
 [XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
 
 ## Industry talk
-This edition of the seminar will include an industry talk by [Joan Serrà](http://www.tid.es/research/researchers/joan-serra), from [Telefonica Research](http://www.tid.es/research).
+This 2017 edition of the seminar will include an industry talk by [Joan Serrà](http://www.tid.es/research/researchers/joan-serra), from [Telefonica Research](http://www.tid.es/research).
+
+Title: Facts and myths about deep learning.
+
+Abstract: Deep learning has revolutionized the traditional machine learning pipeline, with impressive results in domains such as computer vision, speech analysis, or natural language processing. The concept has gone beyond research/application environments, and permeated into the mass media, news blogs, job offers, startup investors, or big company executives' meetings. But what is behind deep learning? Why has it become so mainstream? What can we expect from it? In this talk, I will highlight a number of facts and myths that will provide a shallow answer to the previous questions. While doing that, I will also highlight various applications we have worked on at our lab. Overall, the talk wants to place a series of basic concepts, while giving ground for reflection or discussion on the topic.
 
 ## Organizers
 
@@ -65,18 +69,18 @@ This edition of the seminar will include an industry talk by [Joan Serrà](http:
 
 ## Preliminary Schedule (draft)
 
-| When       | Tuesday 24             | Wedneday 25       | Thursday 26         | Friday 27         | Tuesday 31 8                 |
-|:----------:|:---------------------:|:------------------:|:-------------------:|:------------------:|:------------------------:|
-| a:00-a:20  | [Welcome]             | [DNN/DBN]          | [Architectures II]  | [ASR II]          | Project Expo 1            |
-| a:20-a:40  | [Classification]      | [Optimization]     | [ASR]               | [SpeakerID III]   | Project Expo 1            |
-| a:40-b:00  | [Deep]                | [Recurrent]        | [SpeakerID]         | [Translation III] | Project Expo 2            |
-| b:00-b:20  | [Frameworks]          | [Keras]            | [Translation]       | Telefonica         | Project Expo 2           | 
-| b:20-b:40  | [Keras]               | [Keras]            | [Synthesis]         | Telefonica         | Project Expo 3           | 
-| b:40-c:00  | [Keras]               | [Keras]            | [ASR II]            | Telefonica         | Project Expo 3           | 
-| c:00-c:20  | [Backpropagation]     | [Embeddings]       | [SpeakerID II]      |  [Synthesis III]  | Project Expo 4         |
-| c:20-c:40  | [Training]            | [Autoencoders]     | [Translation II]    |  [Vision]         | Project Expo 4           |
-| c:40-d:00  | [Architectures I]       | [LM]             | [Synthesis II]      |  [???]            | Project Expo 5               |
-| d:00-e:00  | [Project (MSc)]       | [Project (MSc)]    | [Project (MSc)]     | [Project]         | [Closing]            |
+| When       | Tuesday 24            | Wedneday 25       | Thursday 26        | Friday 27         | Tuesday 31 8                 |
+|:----------:|:---------------------:|:-----------------:|:------------------:|:-----------------:|:------------------------:|
+| a:00-a:20  | Welcome               | DNN/DBN           | LM                 | SpeakerId II      | Project Expo 1            |
+| a:20-a:40  | Classification        | Recurrent I       | ASR                | Transaltion II    | Project Expo 1            |
+| a:40-b:00  | Deep                  | Recurrent II      |                    |                   | Project Expo 2            |
+| b:00-b:20  | Architectures I       | Embeddings        | SpeakerID          | Industry talk     | Project Expo 2           | 
+| b:20-b:40  | Backpropagation       | Keras             | Transaltion I      |                   | Project Expo 3           | 
+| b:40-c:00  | Training              | Keras             |                    |                   | Project Expo 3           | 
+| c:00-c:20  | Keras                 | Keras             | Synthesis I        | Synthesis II      | Project Expo 4         |
+| c:20-c:40  | Keras                 | Unsupervised      | ASR II             | Multimodal        | Project Expo 4           |
+| c:40-d:00  | Keras                 | Architectures II  |                    |                   | Project Expo 5               |
+| d:00-e:00  | Project (MSc)         | Project (MSc)     | Project (MSc)      | Project           | [Closing]            |
 
 ## Registration
 Registration will open at ETSETB academic office in a date **posterior and near Janury 10, 2017**.
