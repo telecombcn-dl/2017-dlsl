@@ -63,7 +63,7 @@ Abstract: Deep learning has revolutionized the traditional machine learning pipe
 * Teaching language: English
 * The course is offered for both master and bachelor students, but under two study programmes adapted to each profile.
 * Class Dates: 24, 25, 26, 27 and 31 January 2017 (there are no sessions on January 30).
-* Class Schedule: 4 hours a day (you will need 6 extra hours a day for homework during the week course)
+* Class Schedule: 4 hours a day (you will need 6 extra hours a day for homework during the week course). From 10am until 2pm.
 * Capacity: 15 MSc/Phd students + 15 BSc students
 * Location: [Campus Nord UPC, Module D5, Room 010](https://imatge.upc.edu/web/contact)
 
@@ -71,16 +71,16 @@ Abstract: Deep learning has revolutionized the traditional machine learning pipe
 
 | When       | Tuesday 24            | Wedneday 25       | Thursday 26        | Friday 27         | Tuesday 31 8                 |
 |:----------:|:---------------------:|:-----------------:|:------------------:|:-----------------:|:------------------------:|
-| a:00-a:20  | Welcome               | DNN/DBN           | LM                 | SpeakerId II      | Project Expo 1            |
-| a:20-a:40  | Classification        | Recurrent I       | ASR                | Translation II    | Project Expo 1            |
-| a:40-b:00  | Deep                  | Recurrent II      |                    |                   | Project Expo 2            |
-| b:00-b:20  | Architectures I       | Embeddings        | SpeakerID          | Industry talk     | Project Expo 2           | 
-| b:20-b:40  | Backpropagation       | Keras             | Translation I      |                   | Project Expo 3           | 
-| b:40-c:00  | Training              | Keras             |                    |                   | Project Expo 3           | 
-| c:00-c:20  | Keras                 | Keras             | Synthesis I        | Synthesis II      | Project Expo 4         |
-| c:20-c:40  | Keras                 | Unsupervised      | ASR II             | Multimodal        | Project Expo 4           |
-| c:40-d:00  | Keras                 | Architectures II  |                    |                   | Project Expo 5               |
-| d:00-e:00  | Project (MSc)         | Project (MSc)     | Project (MSc)      | Project           | [Closing]            |
+| 10:00-10:20  | Welcome               | DNN/DBN           | LM                 | SpeakerId II      | Project Expo 1            |
+| 10:20-10:40  | Classification        | Recurrent I       | ASR                | Translation II    | Project Expo 1            |
+| 10:40-11:00  | Deep                  | Recurrent II      |                    |                   | Project Expo 2            |
+| 11:00-11:20  | Architectures I       | Embeddings        | SpeakerID          | Industry talk     | Project Expo 2           | 
+| 11:20-11:40  | Backpropagation       | Keras             | Translation I      |                   | Project Expo 3           | 
+| 11:40-12:00  | Training              | Keras             |                    |                   | Project Expo 3           | 
+| 12:00-12:20  | Keras                 | Keras             | Synthesis I        | Synthesis II      | Project Expo 4         |
+| 12:20-12:40  | Keras                 | Unsupervised      | ASR II             | Multimodal        | Project Expo 4           |
+| 12:40-13:00  | Keras                 | Architectures II  |                    |                   | Project Expo 5               |
+| 13:00-14:00  | Project (MSc)         | Project (MSc)     | Project (MSc)      | Project           | [Closing]            |
 
 ## Registration
 Registration will open at ETSETB academic office in a date **posterior and near Janury 10, 2017**.
