@@ -116,6 +116,8 @@ We are currently looking for sponsors. Please contact [Antonio Bonafonte](antoni
 * Yann LeCun, ["Deep Learning: Nine Lectures at Collège de France"](http://cilvr.nyu.edu/doku.php?id=courses%3Adeeplearning-cdf2016%3Astart). Collège de France, Spring 2016. [[Facebook page](https://www.facebook.com/deeplearningcdf/?fref=nf)]
 * Dhruv Batra, ["ECE 6504: Deep learning for perception"](https://computing.ece.vt.edu/~f15ece6504/). Virginia Tech, Fall 2015.
 * Vincent Vanhoucke, Arpan Chakraborty, ["Deep Learning"](https://www.udacity.com/course/deep-learning--ud730). Google 2016.
+* Jeremy Howard, ["Practical Deep Learning for Coders"](http://course.fast.ai/). Fast AI 2016.
+
 
 
 
