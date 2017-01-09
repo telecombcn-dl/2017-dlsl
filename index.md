@@ -104,7 +104,18 @@ If you have any general question about the course, please use the public issues 
 
 ## Sponsorship
 
-We are currently looking for sponsors. Please contact [Antonio Bonafonte](antonio.bonafonte@upc.edu) if you want your company or organization to support this seminar.
+|   |   |
+|:--|:-:|
+|  Computational resources have been provided by the [Amazon Web Services Educate][url-aws] Program. |  ![logo-aws] |
+|  Code repos and website provided by the [Github Education](url-github) Program. |  ![logo-github] |
+
+[url-aws]: https://aws.amazon.com/education/awseducate/
+[logo-aws]: https://github.com/telecombcn-dl/2017-dlsl/blob/gh-pages/img/sponsors/aws-educate-300.png?raw=true "Logo of AWS Educate"
+
+[url-github]: https://education.github.com/
+[logo-github]: https://github.com/telecombcn-dl/2017-dlsl/blob/gh-pages/img/sponsors/github-300.png?raw=true
+
+If your company or organization is interested in sponsoring this course, please contact [Professor Antonio Bonafonte](antonio.bonafonte@upc.edu).
 
 ## Related courses
 
