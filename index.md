@@ -46,7 +46,7 @@ Abstract: Deep learning has revolutionized the traditional machine learning pipe
 
 ### [Jordi Pons](http://www.jordipons.me/) from the [Music Technology Group](http://www.mtg.upf.edu/) of the Universitat Pompeu Fabra (UPF)
 
-Title: Deep learning & music informatics research
+Title: Deep learning for Music Informatics Research
 
 Abstract: A brief review of the state-of-the-art in music informatics research and deep learning reveals that such models achieved competitive results for several tasks in a relatively short amount of time. Due to these promising results, some researchers declare that is the time for a paradigm shift: from hand-crafted features and shallow classifiers to deep processing models. In the past, introducing machine learning for global modeling (ie. classification) resulted in a significant state-of-the-art advance. And now, some researchers think that another advance could be done by using data-driven feature extractors based on deep learning instead of using hand-crafted features. However, deep learning for music informatics research is still in its early ages - current systems are based on solutions proposed for computer vision or speech. We will present our work describing how to adapt these technologies for the music case.
 
