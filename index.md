@@ -34,12 +34,22 @@ The aim of this course is to train students in methods of deep learning for spee
 [ElisaSayrol-web]: https://imatge.upc.edu/web/people/elisa-sayrol
 [XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
 
-## Industry talk
-This 2017 edition of the seminar will include an industry talk by [Joan Serrà](http://www.tid.es/research/researchers/joan-serra), from [Telefonica Research](http://www.tid.es/research).
+## Invited talks
+This 2017 edition of the seminar will include two invited talks
+
+### [Joan Serrà](http://www.tid.es/research/researchers/joan-serra), from [Telefonica Research](http://www.tid.es/research).
 
 Title: Facts and myths about deep learning.
 
 Abstract: Deep learning has revolutionized the traditional machine learning pipeline, with impressive results in domains such as computer vision, speech analysis, or natural language processing. The concept has gone beyond research/application environments, and permeated into the mass media, news blogs, job offers, startup investors, or big company executives' meetings. But what is behind deep learning? Why has it become so mainstream? What can we expect from it? In this talk, I will highlight a number of facts and myths that will provide a shallow answer to the previous questions. While doing that, I will also highlight various applications we have worked on at our lab. Overall, the talk wants to place a series of basic concepts, while giving ground for reflection or discussion on the topic.
+
+
+### [Jordi Pons](http://www.jordipons.me/) from the [Music Technology Group](http://www.mtg.upf.edu/) of the Universitat Pompeu Fabra (UPF)
+
+Title: To be announced
+
+Abstract: To be announced
+
 
 ## Organizers
 
@@ -69,18 +79,18 @@ Abstract: Deep learning has revolutionized the traditional machine learning pipe
 
 ## Preliminary Schedule (draft)
 
-| When       | Tuesday 24            | Wedneday 25       | Thursday 26        | Friday 27         | Tuesday 31 8                 |
-|:----------:|:---------------------:|:-----------------:|:------------------:|:-----------------:|:------------------------:|
-| 10:00-10:20  | Welcome               | DNN/DBN           | LM                 | SpeakerId II      | Project Expo 1            |
-| 10:20-10:40  | Classification        | Recurrent I       | ASR                | Translation II    | Project Expo 1            |
-| 10:40-11:00  | Deep                  | Recurrent II      |                    |                   | Project Expo 2            |
-| 11:00-11:20  | Architectures I       | Embeddings        | SpeakerID          | Industry talk     | Project Expo 2           | 
-| 11:20-11:40  | Backpropagation       | Keras             | Translation I      |                   | Project Expo 3           | 
-| 11:40-12:00  | Training              | Keras             |                    |                   | Project Expo 3           | 
-| 12:00-12:20  | Keras                 | Keras             | Synthesis I        | Synthesis II      | Project Expo 4         |
-| 12:20-12:40  | Keras                 | Unsupervised      | ASR II             | Multimodal        | Project Expo 4           |
-| 12:40-13:00  | Keras                 | Architectures II  |                    |                   | Project Expo 5               |
-| 13:00-14:00  | Project (MSc)         | Project (MSc)     | Project (MSc)      | Project           | [Closing]            |
+| When         | Tuesday 24            | Wedneday 25       | Thursday 26        | Friday 27         | Tuesday 31               |
+|:------------:|:---------------------:|:-----------------:|:------------------:|:-----------------:|:------------------------:|
+| 10:00-10:20  | Welcome               | DNN/DBN           | LM                 | SpeakerId II      | Project Expo 1           |
+| 10:20-10:40  | Classification        | Recurrent I       | ASR                | Translation II    | Project Expo 2           |
+| 10:40-11:00  | Deep                  | Recurrent II      |                    |                   | Project Expo 3           |
+| 11:00-11:20  | Architectures I       | Embeddings        | SpeakerID          | Joan Serrà        | Project Expo 4           | 
+| 11:20-11:40  | Backpropagation       | Keras             | Translation I      |                   | Project Expo 5           | 
+| 11:40-12:00  | Training              | Keras             |                    |                   |                          | 
+| 12:00-12:20  | Keras                 | Keras             | Synthesis I        | Synthesis II      |                          |
+| 12:20-12:40  | Keras                 | Unsupervised      | ASR II             | Multimodal        | Jordi Pons               |
+| 12:40-13:00  | Keras                 | Architectures II  |                    |                   |                          |
+| 13:00-14:00  | Project (MSc)         | Project (MSc)     | Project (MSc)      | Project           | Closing                  |
 
 ## Registration
 Registration will open at ETSETB academic office in a date **posterior and near Janury 10, 2017**.
