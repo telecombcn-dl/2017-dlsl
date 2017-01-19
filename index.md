@@ -90,7 +90,7 @@ Abstract: A brief review of the state-of-the-art in music informatics research a
 | 12:00-12:20  | Keras                 | Keras             | Synthesis I        | Synthesis II      |                          |
 | 12:20-12:40  | Keras                 | Unsupervised      | ASR II             | Multimodal        | Jordi Pons               |
 | 12:40-13:00  | Keras                 | Architectures II  |                    |                   |                          |
-| 13:00-14:00  | Project (MSc)         | Project (MSc)     | Project (MSc)      | Project           | Closing                  |
+| 13:00-14:00  | Project (MSc)         | Project (MSc)     | Project (MSc)      | Project (MSc)     | Closing                  |
 
 ## Registration
 Registration will open at ETSETB academic office in a date **posterior and near Janury 10, 2017**.
