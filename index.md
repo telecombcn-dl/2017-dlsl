@@ -138,6 +138,7 @@ If your company or organization is interested in sponsoring this course, please 
 * Dhruv Batra, ["ECE 6504: Deep learning for perception"](https://computing.ece.vt.edu/~f15ece6504/). Virginia Tech, Fall 2015.
 * Vincent Vanhoucke, Arpan Chakraborty, ["Deep Learning"](https://www.udacity.com/course/deep-learning--ud730). Google 2016.
 * Jeremy Howard, ["Practical Deep Learning for Coders"](http://course.fast.ai/). Fast AI 2016.
+* Deep Learning TV on [YouTube](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ), [Facebook](https://www.facebook.com/DeepLearningTV/) and [Twitter](https://twitter.com/deeplearningtv).
 
 
 
