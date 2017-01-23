@@ -93,8 +93,6 @@ Abstract: A brief review of the state-of-the-art in music informatics research a
 | 13:00-14:00  | Project (MSc)         | Project (MSc)     | Project (MSc)      | Project (MSc)     | Closing                  |
 
 
-<iframe src="https://calendar.google.com/calendar/embed?src=oqglr1a4d3dh2vt1p0psbr460o%40group.calendar.google.com&ctz=Europe/Madrid" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
 ## Registration
 Registration will open at ETSETB academic office in a date **posterior and near Janury 10, 2017**.
 Registration procedure depends on the student profile:
