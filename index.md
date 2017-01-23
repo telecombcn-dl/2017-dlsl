@@ -53,7 +53,7 @@ Abstract: A brief review of the state-of-the-art in music informatics research a
 
 ## Organizers
 
-| ![logo-etsetb] | ![logo-talp] | ![logo-gpi] | ![logo-upc] | 
+| ![logo-etsetb] | ![logo-talp] | ![logo-gpi] | ![logo-upc] |
 |:------------:|:------------:|:------------:|:------------:|
 | [UPC ETSETB TelecomBCN](etsetb-web) | [UPC TALP Group](talp-web) | [UPC Image Processing Group](gpi-web) | [Universitat Politecnica de Catalunya (UPC)](upc-web) |
 
@@ -82,13 +82,13 @@ Abstract: A brief review of the state-of-the-art in music informatics research a
 | When         | Tuesday 24            | Wedneday 25       | Thursday 26        | Friday 27         | Tuesday 31               |
 |:------------:|:---------------------:|:-----------------:|:------------------:|:-----------------:|:------------------------:|
 | 10:00-10:20  | Welcome               | DNN/DBN           | LM                 | SpeakerId II      | Project Expo 1           |
-| 10:20-10:40  | Classification        | Recurrent I       | ASR                | Translation II    | Project Expo 2           |
+| 10:20-10:40  | Neuron                | Recurrent I       | ASR                | Translation II    | Project Expo 2           |
 | 10:40-11:00  | Deep                  | Recurrent II      |                    |                   | Project Expo 3           |
 | 11:00-11:20  | Architectures I       | Embeddings        | SpeakerID          | Joan Serrà        | Project Expo 4           | 
-| 11:20-11:40  | Backpropagation       | Keras             | Translation I      |                   | Project Expo 5           | 
-| 11:40-12:00  | Training              | Keras             |                    |                   |                          | 
+| 11:20-11:40  | Backpropagation       | Keras             | Translation I      |                   | Project Expo 5           |
+| 11:40-12:00  | Training              | Keras             |                    |                   |                          |
 | 12:00-12:20  | Keras                 | Keras             | Synthesis I        | Synthesis II      |                          |
-| 12:20-12:40  | Keras                 | Unsupervised      | ASR II             | Multimodal        | Jordi Pons               |
+| 12:20-12:40  | Keras                 | Generative        | ASR II             | Multimodal        | Jordi Pons               |
 | 12:40-13:00  | Keras                 | Architectures II  |                    |                   |                          |
 | 13:00-14:00  | Project (MSc)         | Project (MSc)     | Project (MSc)      | Project (MSc)     | Closing                  |
 
@@ -140,8 +140,3 @@ If your company or organization is interested in sponsoring this course, please 
 * Vincent Vanhoucke, Arpan Chakraborty, ["Deep Learning"](https://www.udacity.com/course/deep-learning--ud730). Google 2016.
 * Jeremy Howard, ["Practical Deep Learning for Coders"](http://course.fast.ai/). Fast AI 2016.
 * Deep Learning TV on [YouTube](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ), [Facebook](https://www.facebook.com/DeepLearningTV/) and [Twitter](https://twitter.com/deeplearningtv).
-
-
-
-
-
