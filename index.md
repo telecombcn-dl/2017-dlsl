@@ -83,7 +83,7 @@ Abstract: A brief review of the state-of-the-art in music informatics research a
 |:------------:|:---------------------:|:-----------------:|:------------------:|:-----------------:|:------------------------:|
 | 10:00-10:20  | Welcome               | DNN/DBN           | LM                 | SpeakerId II      | Project Expo 1           |
 | 10:20-10:40  | Perceptron            | Recurrent I       | ASR                | Translation II    | Project Expo 2           |
-| 10:40-11:00  | Deep                  | Recurrent II      |                    |                   | Project Expo 3           |
+| 10:40-11:00  | Convolutional                  | Recurrent II      |                    |                   | Project Expo 3           |
 | 11:00-11:20  | Architectures I       | Embeddings        | SpeakerID          | Joan Serrà        | Project Expo 4           |
 | 11:20-11:40  | Backpropagation       | Keras             | Translation I      |                   | Project Expo 5           |
 | 11:40-12:00  | Training              | Keras             |                    |                   |                          |
@@ -92,22 +92,21 @@ Abstract: A brief review of the state-of-the-art in music informatics research a
 | 12:40-13:00  | Keras                 | Architectures II  |                    |                   |                          |
 | 13:00-14:00  | Project (MSc)         | Project (MSc)     | Project (MSc)      | Project (MSc)     | Closing                  |
 
+| Topic                        | Speaker |       Slideshare                 |  YouTube                        | 
+| ---------------------------- |:-------:|:--------------------------------:|:-------------------------------:|
+| D1L2 The Perceptron          | SP      | [Slides][perceptron-slides]  |   |
+| D1L3 Convolutional Networks  | ES      | [Slides][convolutional-slides]            |   |
+| D1L4 Basic Architectures     | XG      | [Slides][architectures-slides]        |  |
+| D1L5 Backpropagation         | ES      | [Slides][backprop-slides]        |   |
+| D1L6 Training                | ES      | [Slides][training-slides]      | |
 
-## Registration
-Registration will open at ETSETB academic office in a date **posterior and near Janury 10, 2017**.
-Registration procedure depends on the student profile:
 
-* **Master and Phd students at UPC:** Follow [these instructions](http://etsetb.upc.edu/ca/estudis/curs-actual/seminaris/seminars-masters-telecom-electronic-engineering-pla-92) provided by ETSETB academic office. A new period of registration is expected to open during December (contact the academic office for more details).
-* **Bachelor students at UPC:** Follow [these instructions](http://etsetb.upc.edu/ca/estudis/curs-actual/seminaris/seminaris-dels-graus) provided by ETSETB academic office. A new period of registration is expected to open during December (contact the academic office for more details).
-* **Mobility students:** If your host institution has signed an agreement with UPC ETSETB Telecom BCN school, you can request a mobility from your host institution and sign up for the course under the same conditions as UPC Phd, master or bachelor students.
-* **Visiting students:** You must apply for being accepted in the course and cover the 100% cost of the ECTS credits, without the support of the public funds. This corresponds to 143,08 € per ECTS credit (Summer 2016). If you are interested in this option, please contact the [ETSETB Telecom BCN academic office](http://www.etsetb.upc.edu/ca/els-serveis/secretaria-oberta), with an e-mail to
- secretaria@etsetb.upc.edu or calling at 93 405 4174 / 93 401 6772 / 93 401 5966 or 93 401 6750 in the morning (Monday to Thursday from 11 to 14 and Fridays from 11 to 13) or noons (Wednesdays and Thursdays from 16 to 17h).
+[perceptron-slides]: http://www.slideshare.net/xavigiro/the-perceptron-d1l2-deep-learning-for-speech-and-language
+[convolutional-slides]: http://www.slideshare.net/xavigiro/convolutional-neural-networks-d1l3-deep-learning-for-speech-and-language
+[architectures-slides]: http://www.slideshare.net/xavigiro/basic-deep-architectures-d1l4-deep-learning-for-speech-and-language
+[backprop-slides]: http://www.slideshare.net/xavigiro/backpropagation-d1l5-deep-learning-for-speech-and-language
+[training-slides]: http://www.slideshare.net/xavigiro/training-deep-networks-d1l6-deep-learning-for-speech-and-language
 
-You are also encouraged to share your questions and solution in the [public issues](https://github.com/telecombcn-dl/2017-dlsl/issues) section for future reference and quality improvement of the course.
-
-## Video recordings
-
-Sessions will be recorded in video and posted afterwards, together with the slides.
 
 ## Contact
 
