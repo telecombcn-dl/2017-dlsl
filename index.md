@@ -77,7 +77,7 @@ Abstract: A brief review of the state-of-the-art in music informatics research a
 * Capacity: 15 MSc/Phd students + 15 BSc students
 * Location: [Campus Nord UPC, Module D5, Room 010](https://imatge.upc.edu/web/contact)
 
-## Preliminary Schedule (draft)
+## Preliminary Schedule (approximate)
 
 | When         | Tuesday 24            | Wedneday 25       | Thursday 26        | Friday 27         | Tuesday 31               |
 |:------------:|:---------------------:|:-----------------:|:------------------:|:-----------------:|:------------------------:|
@@ -91,6 +91,8 @@ Abstract: A brief review of the state-of-the-art in music informatics research a
 | 12:20-12:40  | Keras                 | Generative        | ASR II             | Multimodal        | Jordi Pons               |
 | 12:40-13:00  | Keras                 | Architectures II  |                    |                   |                          |
 | 13:00-14:00  | Project (MSc)         | Project (MSc)     | Project (MSc)      | Project (MSc)     | Closing                  |
+
+## Slides (videos coming soon)
 
 | Topic                        | Speaker |       Slideshare                 |  YouTube                        | 
 | ---------------------------- |:-------:|:--------------------------------:|:-------------------------------:|
