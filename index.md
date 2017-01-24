@@ -77,21 +77,6 @@ Abstract: A brief review of the state-of-the-art in music informatics research a
 * Capacity: 15 MSc/Phd students + 15 BSc students
 * Location: [Campus Nord UPC, Module D5, Room 010](https://imatge.upc.edu/web/contact)
 
-## Preliminary Schedule (approximate)
-
-| When         | Tuesday 24            | Wedneday 25       | Thursday 26        | Friday 27         | Tuesday 31               |
-|:------------:|:---------------------:|:-----------------:|:------------------:|:-----------------:|:------------------------:|
-| 10:00-10:20  | Welcome               | DNN/DBN           | LM                 | SpeakerId II      | Project Expo 1           |
-| 10:20-10:40  | Perceptron            | Recurrent I       | ASR                | Translation II    | Project Expo 2           |
-| 10:40-11:00  | Convolutional                  | Recurrent II      |                    |                   | Project Expo 3           |
-| 11:00-11:20  | Architectures I       | Embeddings        | SpeakerID          | Joan Serrà        | Project Expo 4           |
-| 11:20-11:40  | Backpropagation       | Keras             | Translation I      |                   | Project Expo 5           |
-| 11:40-12:00  | Training              | Keras             |                    |                   |                          |
-| 12:00-12:20  | Keras                 | Keras             | Synthesis I        | Synthesis II      |                          |
-| 12:20-12:40  | Keras                 | Generative        | ASR II             | Multimodal        | Jordi Pons               |
-| 12:40-13:00  | Keras                 | Architectures II  |                    |                   |                          |
-| 13:00-14:00  | Project (MSc)         | Project (MSc)     | Project (MSc)      | Project (MSc)     | Closing                  |
-
 ## Slides (videos coming soon)
 
 | Topic                        | Speaker |       Slideshare                 |  YouTube                        | 
@@ -108,6 +93,23 @@ Abstract: A brief review of the state-of-the-art in music informatics research a
 [architectures-slides]: http://www.slideshare.net/xavigiro/basic-deep-architectures-d1l4-deep-learning-for-speech-and-language
 [backprop-slides]: http://www.slideshare.net/xavigiro/backpropagation-d1l5-deep-learning-for-speech-and-language
 [training-slides]: http://www.slideshare.net/xavigiro/training-deep-networks-d1l6-deep-learning-for-speech-and-language
+
+
+## Preliminary Schedule (approximate)
+
+| When         | Tuesday 24            | Wedneday 25       | Thursday 26        | Friday 27         | Tuesday 31               |
+|:------------:|:---------------------:|:-----------------:|:------------------:|:-----------------:|:------------------------:|
+| 10:00-10:20  | Welcome               | DNN/DBN           | LM                 | SpeakerId II      | Project Expo 1           |
+| 10:20-10:40  | Perceptron            | Recurrent I       | ASR                | Translation II    | Project Expo 2           |
+| 10:40-11:00  | Convolutional                  | Recurrent II      |                    |                   | Project Expo 3           |
+| 11:00-11:20  | Architectures I       | Embeddings        | SpeakerID          | Joan Serrà        | Project Expo 4           |
+| 11:20-11:40  | Backpropagation       | Keras             | Translation I      |                   | Project Expo 5           |
+| 11:40-12:00  | Training              | Keras             |                    |                   |                          |
+| 12:00-12:20  | Keras                 | Keras             | Synthesis I        | Synthesis II      |                          |
+| 12:20-12:40  | Keras                 | Generative        | ASR II             | Multimodal        | Jordi Pons               |
+| 12:40-13:00  | Keras                 | Architectures II  |                    |                   |                          |
+| 13:00-14:00  | Project (MSc)         | Project (MSc)     | Project (MSc)      | Project (MSc)     | Closing                  |
+
 
 
 ## Contact
