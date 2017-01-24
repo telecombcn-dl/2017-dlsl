@@ -120,8 +120,9 @@ If you have any general question about the course, please use the public issues 
 
 |   |   |
 |:--|:-:|
-|  Computational resources have been provided by the [Amazon Web Services Educate][url-aws] Program. |  ![logo-aws] |
-|  Code repos and website provided by the [Github Education](url-github) Program. |  ![logo-github] |
+|  Social event funded by the [Tradeheader][url-tradeheader].                                         |  ![logo-tradeheader] |
+|  Computational resources have been provided by the [Amazon Web Services Educate][url-aws] Program.  |  ![logo-aws] |
+|  Code repos and website provided by the [Github Education](url-github) Program.                     |  ![logo-github] |
 
 
 [url-tradeheader]: http://www.tradeheader.com/
