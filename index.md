@@ -123,6 +123,11 @@ If you have any general question about the course, please use the public issues 
 |  Computational resources have been provided by the [Amazon Web Services Educate][url-aws] Program. |  ![logo-aws] |
 |  Code repos and website provided by the [Github Education](url-github) Program. |  ![logo-github] |
 
+
+[url-tradeheader]: http://www.tradeheader.com/
+[logo-tradeheader]: https://github.com/telecombcn-dl/2017-dlsl/blob/gh-pages/img/sponsors/tradeheader-300x156.png?raw=true
+
+
 [url-aws]: https://aws.amazon.com/education/awseducate/
 [logo-aws]: https://github.com/telecombcn-dl/2017-dlsl/blob/gh-pages/img/sponsors/aws-educate-300.png?raw=true "Logo of AWS Educate"
 
