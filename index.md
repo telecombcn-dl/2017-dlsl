@@ -137,6 +137,10 @@ If you have any general question about the course, please use the public issues 
 
 If your company or organization is interested in sponsoring this course, please contact [Professor Antonio Bonafonte](antonio.bonafonte@upc.edu).
 
+## Our Computer Vision Seminar
+
+If you liked this seminar, you may want to check the [Deep Learning for Computer Vision](http://imatge-upc.github.io/telecombcn-2016-dlcv/) seminar we organised in 2016 on computer vision, as well as enrol in the [new one](https://telecombcn-dl.github.io/2017-dlcv/) we are organizing in 2017.
+
 ## Related courses
 
 * Richard Socher, ["CS224d: Deep Learning for Natural Language Processing"](http://cs224d.stanford.edu/). Stanford University 2016.
