@@ -50,22 +50,6 @@ The aim of this course is to train students in methods of deep learning for spee
 [AlbertAparicio-photo]: img/tas/AlbertAparicio160x160.jpg "Albert Aparicio"
 [ManelBaradad-photo]: img/tas/ManelBaradad160x160.jpg "Manel Baradad"
 
-## Invited talks
-This 2017 edition of the seminar will include two invited talks
-
-### [Joan Serrà](http://www.tid.es/research/researchers/joan-serra), from [Telefonica Research](http://www.tid.es/research).
-
-Title: Facts and myths about deep learning.
-
-Abstract: Deep learning has revolutionized the traditional machine learning pipeline, with impressive results in domains such as computer vision, speech analysis, or natural language processing. The concept has gone beyond research/application environments, and permeated into the mass media, news blogs, job offers, startup investors, or big company executives' meetings. But what is behind deep learning? Why has it become so mainstream? What can we expect from it? In this talk, I will highlight a number of facts and myths that will provide a shallow answer to the previous questions. While doing that, I will also highlight various applications we have worked on at our lab. Overall, the talk wants to place a series of basic concepts, while giving ground for reflection or discussion on the topic.
-
-
-### [Jordi Pons](http://www.jordipons.me/) from the [Music Technology Group](http://www.mtg.upf.edu/) of the Universitat Pompeu Fabra (UPF)
-
-Title: Deep learning for Music Informatics Research
-
-Abstract: A brief review of the state-of-the-art in music informatics research and deep learning reveals that such models achieved competitive results for several tasks in a relatively short amount of time. Due to these promising results, some researchers declare that is the time for a paradigm shift: from hand-crafted features and shallow classifiers to deep processing models. In the past, introducing machine learning for global modeling (ie. classification) resulted in a significant state-of-the-art advance. And now, some researchers think that another advance could be done by using data-driven feature extractors based on deep learning instead of using hand-crafted features. However, deep learning for music informatics research is still in its early ages - current systems are based on solutions proposed for computer vision or speech. We will present our work describing how to adapt these technologies for the music case.
-
 
 ## Organizers
 
@@ -83,15 +67,26 @@ Abstract: A brief review of the state-of-the-art in music informatics research a
 [logo-gpi]: img/logos/gpi.png "UPC Image Processing Group"
 [logo-upc]: img/logos/upc.jpg "Universitat Politecnica de Catalunya"
 
-## Practical
-* Course code: [230362](http://infoteleco.upc.edu/documents/guia_docent/assignatures/all/ang/230362.pdf) (Phd & master) / [230325](http://infoteleco.upc.edu/documents/guia_docent/assignatures/SisAud/230325.pdf) (Bachelor)
-* ECTS credits: 2.5 (Phd & master) / 2 (bachelor) (corresponds to **full-time dedication** during the week course)
-* Teaching language: English
-* The course is offered for both master and bachelor students, but under two study programmes adapted to each profile.
-* Class Dates: 24, 25, 26, 27 and 31 January 2017 (there are no sessions on January 30).
-* Class Schedule: 4 hours a day (you will need 6 extra hours a day for homework during the week course). From 10am until 2pm.
-* Capacity: 15 MSc/Phd students + 15 BSc students
-* Location: [Campus Nord UPC, Module D5, Room 010](https://imatge.upc.edu/web/contact)
+## Sponsorship
+
+|   |   |
+|:--|:-:|
+|  Social event funded by the [Tradeheader][url-tradeheader].                                         |  ![logo-tradeheader] |
+|  Computational resources have been provided by the [Amazon Web Services Educate][url-aws] Program.  |  ![logo-aws] |
+|  Code repos and website provided by the [Github Education](url-github) Program.                     |  ![logo-github] |
+
+
+[url-tradeheader]: http://www.tradeheader.com/
+[logo-tradeheader]: https://github.com/telecombcn-dl/2017-dlsl/blob/gh-pages/img/sponsors/tradeheader-300x156.png?raw=true
+
+
+[url-aws]: https://aws.amazon.com/education/awseducate/
+[logo-aws]: https://github.com/telecombcn-dl/2017-dlsl/blob/gh-pages/img/sponsors/aws-educate-300.png?raw=true "Logo of AWS Educate"
+
+[url-github]: https://education.github.com/
+[logo-github]: https://github.com/telecombcn-dl/2017-dlsl/blob/gh-pages/img/sponsors/github-300.png?raw=true
+
+If your company or organization is interested in sponsoring this course, please contact [Professor Antonio Bonafonte](antonio.bonafonte@upc.edu).
 
 ## Slides (videos coming soon)
   
@@ -125,7 +120,24 @@ Abstract: A brief review of the state-of-the-art in music informatics research a
 
 
 
-## Preliminary Schedule (approximate)
+## Invited talks
+This 2017 edition of the seminar will include two invited talks
+
+### [Joan Serrà](http://www.tid.es/research/researchers/joan-serra), from [Telefonica Research](http://www.tid.es/research).
+
+Title: Facts and myths about deep learning.
+
+Abstract: Deep learning has revolutionized the traditional machine learning pipeline, with impressive results in domains such as computer vision, speech analysis, or natural language processing. The concept has gone beyond research/application environments, and permeated into the mass media, news blogs, job offers, startup investors, or big company executives' meetings. But what is behind deep learning? Why has it become so mainstream? What can we expect from it? In this talk, I will highlight a number of facts and myths that will provide a shallow answer to the previous questions. While doing that, I will also highlight various applications we have worked on at our lab. Overall, the talk wants to place a series of basic concepts, while giving ground for reflection or discussion on the topic.
+
+
+### [Jordi Pons](http://www.jordipons.me/) from the [Music Technology Group](http://www.mtg.upf.edu/) of the Universitat Pompeu Fabra (UPF)
+
+Title: Deep learning for Music Informatics Research
+
+Abstract: A brief review of the state-of-the-art in music informatics research and deep learning reveals that such models achieved competitive results for several tasks in a relatively short amount of time. Due to these promising results, some researchers declare that is the time for a paradigm shift: from hand-crafted features and shallow classifiers to deep processing models. In the past, introducing machine learning for global modeling (ie. classification) resulted in a significant state-of-the-art advance. And now, some researchers think that another advance could be done by using data-driven feature extractors based on deep learning instead of using hand-crafted features. However, deep learning for music informatics research is still in its early ages - current systems are based on solutions proposed for computer vision or speech. We will present our work describing how to adapt these technologies for the music case.
+
+
+##  Schedule 
 
 | When         | Tuesday 24            | Wedneday 25       | Thursday 26        | Friday 27         | Tuesday 31               |
 |:------------:|:---------------------:|:-----------------:|:------------------:|:-----------------:|:------------------------:|
@@ -140,32 +152,23 @@ Abstract: A brief review of the state-of-the-art in music informatics research a
 | 12:40-13:00  | Keras                 | Architectures II  |                    |                   |                          |
 | 13:00-14:00  | Project (MSc)         | Project (MSc)     | Project (MSc)      | Project (MSc)     | Closing                  |
 
+## Practical
+* Course on [Piazza](piazza.com/upc/spring2017/etsetb230362/home).
+* Course code: [230362](http://infoteleco.upc.edu/documents/guia_docent/assignatures/all/ang/230362.pdf) (Phd & master) / [230325](http://infoteleco.upc.edu/documents/guia_docent/assignatures/SisAud/230325.pdf) (Bachelor)
+* ECTS credits: 2.5 (Phd & master) / 2 (bachelor) (corresponds to **full-time dedication** during the week course)
+* Teaching language: English
+* The course is offered for both master and bachelor students, but under two study programmes adapted to each profile.
+* Class Dates: 24, 25, 26, 27 and 31 January 2017 (there are no sessions on January 30).
+* Class Schedule: 4 hours a day (you will need 6 extra hours a day for homework during the week course). From 10am until 2pm.
+* Capacity: 15 MSc/Phd students + 15 BSc students
+* Location: [Campus Nord UPC, Module D5, Room 010](https://imatge.upc.edu/web/contact)
 
 
 ## Contact
 
 If you have any general question about the course, please use the public issues section of this repo. Otherwise, you can send an e-mail to  [Xavier Giro-i-Nieto](xavier.giro@upc.edu).
 
-## Sponsorship
 
-|   |   |
-|:--|:-:|
-|  Social event funded by the [Tradeheader][url-tradeheader].                                         |  ![logo-tradeheader] |
-|  Computational resources have been provided by the [Amazon Web Services Educate][url-aws] Program.  |  ![logo-aws] |
-|  Code repos and website provided by the [Github Education](url-github) Program.                     |  ![logo-github] |
-
-
-[url-tradeheader]: http://www.tradeheader.com/
-[logo-tradeheader]: https://github.com/telecombcn-dl/2017-dlsl/blob/gh-pages/img/sponsors/tradeheader-300x156.png?raw=true
-
-
-[url-aws]: https://aws.amazon.com/education/awseducate/
-[logo-aws]: https://github.com/telecombcn-dl/2017-dlsl/blob/gh-pages/img/sponsors/aws-educate-300.png?raw=true "Logo of AWS Educate"
-
-[url-github]: https://education.github.com/
-[logo-github]: https://github.com/telecombcn-dl/2017-dlsl/blob/gh-pages/img/sponsors/github-300.png?raw=true
-
-If your company or organization is interested in sponsoring this course, please contact [Professor Antonio Bonafonte](antonio.bonafonte@upc.edu).
 
 ## Our Computer Vision Seminar
 
