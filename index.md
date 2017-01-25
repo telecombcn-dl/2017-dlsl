@@ -34,6 +34,22 @@ The aim of this course is to train students in methods of deep learning for spee
 [ElisaSayrol-web]: https://imatge.upc.edu/web/people/elisa-sayrol
 [XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
 
+## Teaching assistants
+
+| ![Ahmad Mel][AhmadMel-photo] |  ![Carlos Escolano][CarlosEscolano-photo]  | ![AlbertAparicio][AlbertAparicio-photo]  | ![Manel Baradad][ManelBaradad-photo] | 
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| [Ahmad Bel][AhmadMel-web]  | [Carlos Escolano][CarlosEscolano-web] |  [Albert Aparicio][AlbertAparicio-web] | [Manel Baradad][ManelBaradad-web]  |
+
+[AhmadMel-web]: 
+[Carlos Escolano]: 
+[AlbertAparicio-web]:
+[ManelBaradad-web]: 
+
+[AhmadMel-photo]: img/assistants/AhmadMelx160.jpg "Junting Pan"
+[CarlosEscolano-photo]: img/assistants/CarlosEscolano160x160.jpg "Miriam Bellver"
+[AlbertAparicio-photo]: img/assistants/AlbertAparicio160x160.jpg "Albert Jiménez"
+[ManelBaradad-photo]: img/assistants/ManelBaradad160x160.jpg "Andrea Ferri"
+
 ## Invited talks
 This 2017 edition of the seminar will include two invited talks
 
