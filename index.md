@@ -41,14 +41,14 @@ The aim of this course is to train students in methods of deep learning for spee
 | [Ahmad Bel][AhmadMel-web]  | [Carlos Escolano][CarlosEscolano-web] |  [Albert Aparicio][AlbertAparicio-web] | [Manel Baradad][ManelBaradad-web]  |
 
 [AhmadMel-web]: http://directori.upc.edu/directori/dadesPersona.jsp?id=1221001
-[Carlos Escolano]: http://directori.upc.edu/directori/dadesPersona.jsp?id=1160293
+[Carlos Escolano-web]: http://directori.upc.edu/directori/dadesPersona.jsp?id=1160293
 [AlbertAparicio-web]: https://www.linkedin.com/in/albert-aparicio-isarn-3977038b
 [ManelBaradad-web]: https://www.linkedin.com/in/manel-baradad-jurjo-18611a62
 
-[AhmadMel-photo]: img/assistants/AhmadMelx160.jpg "Ahmad Mel"
-[CarlosEscolano-photo]: img/assistants/CarlosEscolano160x160.jpg "Carlos Escolano"
-[AlbertAparicio-photo]: img/assistants/AlbertAparicio160x160.jpg "Albert Aparicio"
-[ManelBaradad-photo]: img/assistants/ManelBaradad160x160.jpg "Manel Baradad"
+[AhmadMel-photo]: img/tas/AhmadMelx160.jpg "Ahmad Mel"
+[CarlosEscolano-photo]: img/tas/CarlosEscolano160x160.jpg "Carlos Escolano"
+[AlbertAparicio-photo]: img/tas/AlbertAparicio160x160.jpg "Albert Aparicio"
+[ManelBaradad-photo]: img/tas/ManelBaradad160x160.jpg "Manel Baradad"
 
 ## Invited talks
 This 2017 edition of the seminar will include two invited talks
