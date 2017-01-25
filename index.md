@@ -94,14 +94,20 @@ Abstract: A brief review of the state-of-the-art in music informatics research a
 * Location: [Campus Nord UPC, Module D5, Room 010](https://imatge.upc.edu/web/contact)
 
 ## Slides (videos coming soon)
-
-| Topic                        | Speaker |       Slideshare                 |  YouTube                        | 
-| ---------------------------- |:-------:|:--------------------------------:|:-------------------------------:|
-| D1L2 The Perceptron          | SP      | [Slides][perceptron-slides]  |   |
-| D1L3 Convolutional Networks  | ES      | [Slides][convolutional-slides]            |   |
-| D1L4 Basic Architectures     | XG      | [Slides][architectures-slides]        |  |
-| D1L5 Backpropagation         | ES      | [Slides][backprop-slides]        |   |
-| D1L6 Training                | ES      | [Slides][training-slides]      | |
+  
+| Topic                                 | Speaker |       Slideshare                 |  YouTube                        | 
+| ------------------------------------- |:-------:|:--------------------------------:|:-------------------------------:|
+| D1L2 The Perceptron                   | SP      | [Slides][perceptron-slides]      |   |
+| D1L3 Convolutional Neural Networks    | ES      | [Slides][convolutional-slides]   |   |
+| D1L4 Basic Deep Architectures         | XG      | [Slides][architectures-slides]   |  |
+| D1L5 Backpropagation                  | ES      | [Slides][backprop-slides]        |   |
+| D1L6 Training                         | ES      | [Slides][training-slides]        | |
+| D2L1 Deep Belief Networks             | ES      | [Slides][dbn-slides]             |   |
+| D2L2 Recurrent Neural Networks I      | SP      | [Slides][rnn1-slides]            |   |
+| D2L3 Recurrent Neural Networks II     | SP      | [Slides][rnn2-slides]            |  |
+| D2L4 Word Embeddings                  | TB      | [Slides][embeddings-slides]      |   |
+| D2L5 Generative Adversarial Networks  | SP      | [Slides][gan-slides]             | |
+| D2L6 Advanced Deep Architectures      | XG      | [Slides][architectures2-slides]  | |
 
 
 [perceptron-slides]: http://www.slideshare.net/xavigiro/the-perceptron-d1l2-deep-learning-for-speech-and-language
@@ -109,6 +115,14 @@ Abstract: A brief review of the state-of-the-art in music informatics research a
 [architectures-slides]: http://www.slideshare.net/xavigiro/basic-deep-architectures-d1l4-deep-learning-for-speech-and-language
 [backprop-slides]: http://www.slideshare.net/xavigiro/backpropagation-d1l5-deep-learning-for-speech-and-language
 [training-slides]: http://www.slideshare.net/xavigiro/training-deep-networks-d1l6-deep-learning-for-speech-and-language
+
+[dbn-slides]: http://www.slideshare.net/xavigiro/deep-belief-networks-d2l1-deep-learning-for-speech-and-language-upc-2017
+[rnn1-slides]: http://www.slideshare.net/xavigiro/recurrent-neural-networks-1-d2l2-deep-learning-for-speech-and-language-upc-2017
+[rnn2-slides]: http://www.slideshare.net/xavigiro/recurrent-neural-networks-2-d2l3-deep-learning-for-speech-and-language-upc-2017
+[embeddings-slides]: http://www.slideshare.net/xavigiro/word-embeddings-d2l4-deep-learning-for-speech-and-language-upc-2017
+[gan-slides]: http://www.slideshare.net/xavigiro/generative-adversarial-networks-d2l5-deep-learning-for-speech-and-language-upc-2017
+[architectures2-slides]: http://www.slideshare.net/xavigiro/advanced-deep-architectures-d2l6-deep-learning-for-speech-and-language-upc-2017
+
 
 
 ## Preliminary Schedule (approximate)
