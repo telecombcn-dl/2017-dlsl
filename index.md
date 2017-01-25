@@ -45,7 +45,7 @@ The aim of this course is to train students in methods of deep learning for spee
 [AlbertAparicio-web]: https://www.linkedin.com/in/albert-aparicio-isarn-3977038b
 [ManelBaradad-web]: https://www.linkedin.com/in/manel-baradad-jurjo-18611a62
 
-[AhmadMel-photo]: img/tas/AhmadMelx160.jpg "Ahmad Mel"
+[AhmadMel-photo]: img/tas/AhmadMel160x160.jpg "Ahmad Mel"
 [CarlosEscolano-photo]: img/tas/CarlosEscolano160x160.jpg "Carlos Escolano"
 [AlbertAparicio-photo]: img/tas/AlbertAparicio160x160.jpg "Albert Aparicio"
 [ManelBaradad-photo]: img/tas/ManelBaradad160x160.jpg "Manel Baradad"
