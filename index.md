@@ -100,9 +100,19 @@ If your company or organization is interested in sponsoring this course, please 
 | D2L1 Deep Belief Networks             | ES      | [Slides][dbn-slides]             |   |
 | D2L2 Recurrent Neural Networks I      | SP      | [Slides][rnn1-slides]            |   |
 | D2L3 Recurrent Neural Networks II     | SP      | [Slides][rnn2-slides]            |  |
-| D2L4 Word Embeddings                  | TB      | [Slides][embeddings-slides]      |   |
+| D2L4 Word Embeddings                  | AB      | [Slides][embeddings-slides]      |   |
 | D2L5 Generative Adversarial Networks  | SP      | [Slides][gan-slides]             | |
 | D2L6 Advanced Deep Architectures      | XG      | [Slides][architectures2-slides]  | |
+| D3L1 Language Model                   | MR      | [Slides][language-slides]  | |
+| D3L2 Speech Recognition I             | AR      | [Slides][asr1-slides]  | |
+| D3L3 Speaker Identification I         | JH      | [Slides][speakerid1-slides]  | |
+| D3L4 Neural Machine Translation I     | MR      | [Slides][nmt1-slides]  | |
+| D3L5 Speech Synthesis I               | AB      | [Slides][synthesis-slides]  | |
+| D3L6 Speech Recognition II            | JA      | [Slides][asr-slides]  | |
+| D4L1 Speaker Identification II        | JH      | [Slides][speakerid2-slides]  | |
+| D4L2 Neural Machine Translation II    | JH      | [Slides][nmt2-slides]  | |
+| D4L3 Speech Synthesis II:WaveNet      | AB      | [Slides][wavenet-slides]  | |
+| D4L4 Multimodal Deep Learning         | XG      | [Slides][multimodal-slides]  | |
 
 
 [perceptron-slides]: http://www.slideshare.net/xavigiro/the-perceptron-d1l2-deep-learning-for-speech-and-language
@@ -118,6 +128,17 @@ If your company or organization is interested in sponsoring this course, please 
 [gan-slides]: http://www.slideshare.net/xavigiro/generative-adversarial-networks-d2l5-deep-learning-for-speech-and-language-upc-2017
 [architectures2-slides]: http://www.slideshare.net/xavigiro/advanced-deep-architectures-d2l6-deep-learning-for-speech-and-language-upc-2017
 
+[language-slides]: http://www.slideshare.net/xavigiro/language-model-d3l1-deep-learning-for-speech-and-language-upc-2017
+[asr1-slides]: http://www.slideshare.net/xavigiro/speech-recognition-with-deep-neural-networks-d3l2-deep-learning-for-speech-and-language-upc-2017
+[speakerid1-slides]: http://www.slideshare.net/xavigiro/speaker-id-d3l3-deep-learning-for-speech-and-language-upc-2017
+[nmt1-slides]: http://www.slideshare.net/xavigiro/neural-machine-translation-d3l4-deep-learning-for-speech-and-language-upc-2017
+[synthesis-slides]: http://www.slideshare.net/xavigiro/parametric-speech-synthesis-d3l5-deep-learning-for-speech-and-language-upc-2017
+[asr2-slides]: http://www.slideshare.net/xavigiro/endtoend-speech-recognition-with-recurrent-neural-networks-d3l6-deep-learning-for-speech-and-language-upc-2017
+
+[speakerid2-slides]: http://www.slideshare.net/xavigiro/speaker-id-ii-d4l1-deep-learning-for-speech-and-language-upc-2017
+[nmt2-slides]: http://www.slideshare.net/xavigiro/advanced-neural-machine-translation-d4l2-deep-learning-for-speech-and-language-upc-2017
+[wavenet-slides]: http://www.slideshare.net/xavigiro/speech-synthesis-wavenet-d4l1-deep-learning-for-speech-and-language-upc-2017
+[multimodal-slides]: http://www.slideshare.net/xavigiro/multimodal-deep-learning-d4l4-deep-learning-for-speech-and-language-upc-2017
 
 
 ## Invited talks
