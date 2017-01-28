@@ -108,7 +108,7 @@ If your company or organization is interested in sponsoring this course, please 
 | D3L3 Speaker Identification I         | JH      | [Slides][speakerid1-slides]  | |
 | D3L4 Neural Machine Translation I     | MR      | [Slides][nmt1-slides]  | |
 | D3L5 Speech Synthesis I               | AB      | [Slides][synthesis-slides]  | |
-| D3L6 Speech Recognition II            | JA      | [Slides][asr-slides]  | |
+| D3L6 Speech Recognition II            | JA      | [Slides][asr2-slides]  | |
 | D4L1 Speaker Identification II        | JH      | [Slides][speakerid2-slides]  | |
 | D4L2 Neural Machine Translation II    | JH      | [Slides][nmt2-slides]  | |
 | D4L3 Speech Synthesis II:WaveNet      | AB      | [Slides][wavenet-slides]  | |
