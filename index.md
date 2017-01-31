@@ -175,8 +175,8 @@ of the project corresponds to the single week of the course. Their slides and so
 | Team 1      | Sentiment analysis of Movie Reviews  |                         | [Slides][msc1-slides]   | [Repo][msc1-repo]  |
 | Team 2      | Smart text                           | [Web][msc2-web]         | [Slides][msc2-slides]   | [Repo][msc2-repo]  |
 | Team 3      | Sentiment analysis for IMDB database |                         | [Slides][msc3-slides]   | [Repo][msc3-repo] |
-| Team 4      | Text to Phonemes                     |                         | [Slides][msc4-slides]   | [Repo][msc4-repo] |
-| Team 5      | Deep Dream                           |                         | [Slides][msc5-slides]   | [Repo][msc5-repo] |
+| Team 4 (best project award)     | Text to Phonemes                     |                         | [Slides][msc4-slides]   | [Repo][msc4-repo] |
+| Team 5      | Deep Dream                           |                         | [Slides][msc5-slides]   |       |
 
 [msc1-slides]: https://docs.google.com/presentation/d/1bfd1SUSuESTBXwBnXeAAcNl_0MJ6bsyhR3VUMvllzbs/edit?usp=sharing
 [msc1-repo]: https://github.com/telecombcn-dl/2017-dlsl-msc-team1
@@ -202,7 +202,7 @@ of the project corresponds to the single week of the course. Their slides and so
 | Team 2      |  [Slides][bsc2-slides]   | [Repo][bsc2-repo]  |
 | Team 3      |  [Slides][bsc3-slides]   | [Repo][bsc3-repo] |
 | Team 4      |  [Slides][bsc4-slides]   | [Repo][bsc4-repo] |
-| Team 5      |  [Slides][bsc5-slides]   | [Repo][bsc5-repo] |
+| Team 5 (best project award)     |  [Slides][bsc5-slides]   | [Repo][bsc5-repo] |
 
 [bsc1-slides]: https://docs.google.com/presentation/d/17Cy9p2LTxuEG_zlyBFxDOMs0aZm5KN_-Zq6MdmJz5SU/edit?usp=sharing
 [bsc1-repo]: https://github.com/telecombcn-dl/2017-dlsl-bsc-team1
