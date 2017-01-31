@@ -223,8 +223,6 @@ Master and bachelor student developed during the week of the course a practical 
 
 Photo album [available](https://goo.gl/photos/dUwCbeV5pNwyRE119) from Google Photos.
 
-<img src="https://goo.gl/photos/TbrWeDW9iiKCJfdc6">
-
 
 ##  Schedule 
 
