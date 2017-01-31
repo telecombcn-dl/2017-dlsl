@@ -141,6 +141,38 @@ If your company or organization is interested in sponsoring this course, please 
 [multimodal-slides]: http://www.slideshare.net/xavigiro/multimodal-deep-learning-d4l4-deep-learning-for-speech-and-language-upc-2017
 
 
+## Student Projects
+
+of the project corresponds to the single week of the course. Their slides and source code is available from their repos. If you are interested in hiring or contacting the students, some of them have provided their LinkedIn profiles from their project pages.
+
+## Master Students
+
+| Team        | Project                              |     Web                 |  Slides                 |  Repo              |
+| ----------- |:------------------------------------:|:-----------------------:|:-----------------------:|:------------------:|
+| Team 1      | Sentimen analysis of Movie Reviews   |                         | [Slides][msc1-slides]   | [Repo][msc1-repo]  |
+| Team 2      | Smart text                           | [Web][msc2-web]         | [Slides][msc2-slides]   | [Repo][msc2-repo]  |
+| Team 3      | Sentiment analysis for IMDB database |                         | [Slides][msc3-slides]   | [Repo][msc3-repo] |
+| Team 4      | Text to Phonemes                     |                         | [Slides][msc4-slides]   | [Repo][msc4-repo] |
+| Team 5      | Deep Dream                           |                         | [Slides][msc5-slides]   | [Repo][msc5-repo] |
+
+[msc1-slides]: https://docs.google.com/presentation/d/1bfd1SUSuESTBXwBnXeAAcNl_0MJ6bsyhR3VUMvllzbs/edit?usp=sharing
+[msc1-repo]: https://github.com/telecombcn-dl/2017-dlsl-msc-team1
+
+[msc2-slides]: https://docs.google.com/presentation/d/1sTySL7mtvsF3S0tOxSmpnh0tlorLkxpwfCR29ysxENQ/edit?usp=sharing
+[msc2-web]: https://diplernin.github.io/
+[msc2-repo]: https://github.com/telecombcn-dl/2017-dlsl-msc-team2
+
+[msc3-slides]: https://docs.google.com/presentation/d/1QO4Myv9xQtZp495XkmoH6xlbcgTl2Q2CnpP2Q3O82pM/edit?usp=sharing
+[msc3-repo]: https://github.com/telecombcn-dl/2017-dlsl-msc-team3
+
+[msc4-slides]: https://docs.google.com/presentation/d/1gp6NUnFIWxY4sGYGnY6zQMN-T3wniQhM5MK3-oAuwWI/edit?usp=sharing
+[msc4-repo]: https://github.com/telecombcn-dl/2017-dlsl-msc-team4
+
+[msc5-slides]: https://docs.google.com/presentation/d/1wwdddDY2MAKqeGYcr04opUerQDcuMM6h54j5M_eugm0/edit?usp=sharing
+[msc5-repo]: 
+
+
+
 ## Invited talks
 This 2017 edition of the seminar will include two invited talks
 
