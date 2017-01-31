@@ -166,7 +166,7 @@ Abstract: A brief review of the state-of-the-art in music informatics research a
 
 ## Student Projects
 
-of the project corresponds to the single week of the course. Their slides and source code is available from their repos. If you are interested in hiring or contacting the students, some of them have provided their LinkedIn profiles from their project pages.
+Master and bachelor student developed during the week of the course a practical project. Summary slides and source code are publicly available.
 
 ### Master Students
 
@@ -219,7 +219,11 @@ of the project corresponds to the single week of the course. Their slides and so
 [bsc5-slides]: https://docs.google.com/presentation/d/1x5pDLhZUGbrZVDU92_M24MB6EZvjzgJV6rcUdp-CePE/edit#slide=id.p
 [bsc5-repo]: https://github.com/telecombcn-dl/2017-dlsl-bsc-team5
 
+## Pics
 
+Photo album [available](https://goo.gl/photos/dUwCbeV5pNwyRE119) from Google Photos.
+
+<img src="https://goo.gl/photos/TbrWeDW9iiKCJfdc6">
 
 
 ##  Schedule 
