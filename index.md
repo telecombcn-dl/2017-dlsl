@@ -142,7 +142,7 @@ If your company or organization is interested in sponsoring this course, please 
 [wavenet-slides]: http://www.slideshare.net/xavigiro/speech-synthesis-wavenet-d4l1-deep-learning-for-speech-and-language-upc-2017
 [multimodal-slides]: http://www.slideshare.net/xavigiro/multimodal-deep-learning-d4l4-deep-learning-for-speech-and-language-upc-2017
 
-[music-slides] https://github.com/telecombcn-dl/2017-dlsl/raw/master/DL4Music_Pons.pdf
+[music-slides]: https://github.com/telecombcn-dl/2017-dlsl/raw/master/DL4Music_Pons.pdf
 
 
 
