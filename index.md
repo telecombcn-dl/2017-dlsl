@@ -113,6 +113,8 @@ If your company or organization is interested in sponsoring this course, please 
 | D4L2 Neural Machine Translation II    | JH      | [Slides][nmt2-slides]  | |
 | D4L3 Speech Synthesis II:WaveNet      | AB      | [Slides][wavenet-slides]  | |
 | D4L4 Multimodal Deep Learning         | XG      | [Slides][multimodal-slides]  | |
+| D5 Music Data Processing              | JP      | [Slides][music-slides]  | |
+
 
 
 [perceptron-slides]: http://www.slideshare.net/xavigiro/the-perceptron-d1l2-deep-learning-for-speech-and-language
@@ -140,7 +142,7 @@ If your company or organization is interested in sponsoring this course, please 
 [wavenet-slides]: http://www.slideshare.net/xavigiro/speech-synthesis-wavenet-d4l1-deep-learning-for-speech-and-language-upc-2017
 [multimodal-slides]: http://www.slideshare.net/xavigiro/multimodal-deep-learning-d4l4-deep-learning-for-speech-and-language-upc-2017
 
-
+[music-slides] https://github.com/telecombcn-dl/2017-dlsl/raw/master/DL4Music_Pons.pdf
 
 
 
@@ -159,6 +161,8 @@ Abstract: Deep learning has revolutionized the traditional machine learning pipe
 Title: Deep learning for Music Informatics Research
 
 Abstract: A brief review of the state-of-the-art in music informatics research and deep learning reveals that such models achieved competitive results for several tasks in a relatively short amount of time. Due to these promising results, some researchers declare that is the time for a paradigm shift: from hand-crafted features and shallow classifiers to deep processing models. In the past, introducing machine learning for global modeling (ie. classification) resulted in a significant state-of-the-art advance. And now, some researchers think that another advance could be done by using data-driven feature extractors based on deep learning instead of using hand-crafted features. However, deep learning for music informatics research is still in its early ages - current systems are based on solutions proposed for computer vision or speech. We will present our work describing how to adapt these technologies for the music case.
+
+[[Slides]](https://github.com/telecombcn-dl/2017-dlsl/raw/master/DL4Music_Pons.pdf)
 
 ## Student Projects
 
