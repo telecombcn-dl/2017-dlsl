@@ -141,15 +141,34 @@ If your company or organization is interested in sponsoring this course, please 
 [multimodal-slides]: http://www.slideshare.net/xavigiro/multimodal-deep-learning-d4l4-deep-learning-for-speech-and-language-upc-2017
 
 
+
+
+
+## Invited talks
+This 2017 edition of the seminar will include two invited talks
+
+### [Joan Serrà](http://www.tid.es/research/researchers/joan-serra), from [Telefonica Research](http://www.tid.es/research).
+
+Title: Facts and myths about deep learning.
+
+Abstract: Deep learning has revolutionized the traditional machine learning pipeline, with impressive results in domains such as computer vision, speech analysis, or natural language processing. The concept has gone beyond research/application environments, and permeated into the mass media, news blogs, job offers, startup investors, or big company executives' meetings. But what is behind deep learning? Why has it become so mainstream? What can we expect from it? In this talk, I will highlight a number of facts and myths that will provide a shallow answer to the previous questions. While doing that, I will also highlight various applications we have worked on at our lab. Overall, the talk wants to place a series of basic concepts, while giving ground for reflection or discussion on the topic.
+
+
+### [Jordi Pons](http://www.jordipons.me/) from the [Music Technology Group](http://www.mtg.upf.edu/) of the Universitat Pompeu Fabra (UPF)
+
+Title: Deep learning for Music Informatics Research
+
+Abstract: A brief review of the state-of-the-art in music informatics research and deep learning reveals that such models achieved competitive results for several tasks in a relatively short amount of time. Due to these promising results, some researchers declare that is the time for a paradigm shift: from hand-crafted features and shallow classifiers to deep processing models. In the past, introducing machine learning for global modeling (ie. classification) resulted in a significant state-of-the-art advance. And now, some researchers think that another advance could be done by using data-driven feature extractors based on deep learning instead of using hand-crafted features. However, deep learning for music informatics research is still in its early ages - current systems are based on solutions proposed for computer vision or speech. We will present our work describing how to adapt these technologies for the music case.
+
 ## Student Projects
 
 of the project corresponds to the single week of the course. Their slides and source code is available from their repos. If you are interested in hiring or contacting the students, some of them have provided their LinkedIn profiles from their project pages.
 
-## Master Students
+### Master Students
 
 | Team        | Project                              |     Web                 |  Slides                 |  Repo              |
 | ----------- |:------------------------------------:|:-----------------------:|:-----------------------:|:------------------:|
-| Team 1      | Sentimen analysis of Movie Reviews   |                         | [Slides][msc1-slides]   | [Repo][msc1-repo]  |
+| Team 1      | Sentiment analysis of Movie Reviews  |                         | [Slides][msc1-slides]   | [Repo][msc1-repo]  |
 | Team 2      | Smart text                           | [Web][msc2-web]         | [Slides][msc2-slides]   | [Repo][msc2-repo]  |
 | Team 3      | Sentiment analysis for IMDB database |                         | [Slides][msc3-slides]   | [Repo][msc3-repo] |
 | Team 4      | Text to Phonemes                     |                         | [Slides][msc4-slides]   | [Repo][msc4-repo] |
@@ -171,23 +190,32 @@ of the project corresponds to the single week of the course. Their slides and so
 [msc5-slides]: https://docs.google.com/presentation/d/1wwdddDY2MAKqeGYcr04opUerQDcuMM6h54j5M_eugm0/edit?usp=sharing
 [msc5-repo]: 
 
+### Bachelor Students
+
+| Team        |  Slides                  |  Repo              |
+| ----------- |:------------------------:|:------------------:|
+| Team 1      |  [Slides][bsc1-slides]   | [Repo][bsc1-repo]  |
+| Team 2      |  [Slides][bsc2-slides]   | [Repo][bsc2-repo]  |
+| Team 3      |  [Slides][bsc3-slides]   | [Repo][bsc3-repo] |
+| Team 4      |  [Slides][bsc4-slides]   | [Repo][bsc4-repo] |
+| Team 5      |  [Slides][bsc5-slides]   | [Repo][bsc5-repo] |
+
+[bsc1-slides]: https://docs.google.com/presentation/d/17Cy9p2LTxuEG_zlyBFxDOMs0aZm5KN_-Zq6MdmJz5SU/edit?usp=sharing
+[bsc1-repo]: https://github.com/telecombcn-dl/2017-dlsl-bsc-team1
+
+[bsc2-slides]: https://docs.google.com/presentation/d/1g9Fwk0-JngcgabgkuInWzBPiiKwZnWM1EzHBxbM5OME/edit?usp=sharing
+[bsc2-repo]: https://github.com/telecombcn-dl/2017-dlsl-bsc-team2
+
+[bsc3-slides]: https://docs.google.com/presentation/d/1_8Z3WUaG2cdiotnxWSNITZqZY7NrquZG6_5F6DedUsM/edit#slide=id.g1bac826aed_0_1
+[bsc3-repo]: https://github.com/telecombcn-dl/2017-dlsl-bsc-team3
+
+[bsc4-slides]: https://drive.google.com/open?id=1kdLtPO8hEk6yOwQCXcikKjR6mIuC7dIWBWAtcfmY8Ag
+[bsc4-repo]: https://github.com/telecombcn-dl/2017-dlsl-bsc-team4
+
+[bsc5-slides]: https://docs.google.com/presentation/d/1x5pDLhZUGbrZVDU92_M24MB6EZvjzgJV6rcUdp-CePE/edit#slide=id.p
+[bsc5-repo]: https://github.com/telecombcn-dl/2017-dlsl-bsc-team5
 
 
-## Invited talks
-This 2017 edition of the seminar will include two invited talks
-
-### [Joan Serrà](http://www.tid.es/research/researchers/joan-serra), from [Telefonica Research](http://www.tid.es/research).
-
-Title: Facts and myths about deep learning.
-
-Abstract: Deep learning has revolutionized the traditional machine learning pipeline, with impressive results in domains such as computer vision, speech analysis, or natural language processing. The concept has gone beyond research/application environments, and permeated into the mass media, news blogs, job offers, startup investors, or big company executives' meetings. But what is behind deep learning? Why has it become so mainstream? What can we expect from it? In this talk, I will highlight a number of facts and myths that will provide a shallow answer to the previous questions. While doing that, I will also highlight various applications we have worked on at our lab. Overall, the talk wants to place a series of basic concepts, while giving ground for reflection or discussion on the topic.
-
-
-### [Jordi Pons](http://www.jordipons.me/) from the [Music Technology Group](http://www.mtg.upf.edu/) of the Universitat Pompeu Fabra (UPF)
-
-Title: Deep learning for Music Informatics Research
-
-Abstract: A brief review of the state-of-the-art in music informatics research and deep learning reveals that such models achieved competitive results for several tasks in a relatively short amount of time. Due to these promising results, some researchers declare that is the time for a paradigm shift: from hand-crafted features and shallow classifiers to deep processing models. In the past, introducing machine learning for global modeling (ie. classification) resulted in a significant state-of-the-art advance. And now, some researchers think that another advance could be done by using data-driven feature extractors based on deep learning instead of using hand-crafted features. However, deep learning for music informatics research is still in its early ages - current systems are based on solutions proposed for computer vision or speech. We will present our work describing how to adapt these technologies for the music case.
 
 
 ##  Schedule 
