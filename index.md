@@ -175,8 +175,8 @@ Master and bachelor student developed during the week of the course a practical 
 | Team 1      | Sentiment analysis of Movie Reviews  |                         | [Slides][msc1-slides]   | [Repo][msc1-repo]  |
 | Team 2      | Smart text                           | [Web][msc2-web]         | [Slides][msc2-slides]   | [Repo][msc2-repo]  |
 | Team 3      | Sentiment analysis for IMDB database |                         | [Slides][msc3-slides]   | [Repo][msc3-repo] |
-| Team 4 (best project award)     | Text to Phonemes                     |                         | [Slides][msc4-slides]   | [Repo][msc4-repo] |
-| Team 5      | Deep Dream                           |                         | [Slides][msc5-slides]   |       |
+| Team 4 (award)  | Text to Phonemes |                         | [Slides][msc4-slides]   | [Repo][msc4-repo] |
+| Team 5      | Phonetic Transcription               |                         | [Slides][msc5-slides]   |       |
 
 [msc1-slides]: https://docs.google.com/presentation/d/1bfd1SUSuESTBXwBnXeAAcNl_0MJ6bsyhR3VUMvllzbs/edit?usp=sharing
 [msc1-repo]: https://github.com/telecombcn-dl/2017-dlsl-msc-team1
@@ -192,7 +192,7 @@ Master and bachelor student developed during the week of the course a practical 
 [msc4-repo]: https://github.com/telecombcn-dl/2017-dlsl-msc-team4
 
 [msc5-slides]: https://docs.google.com/presentation/d/1wwdddDY2MAKqeGYcr04opUerQDcuMM6h54j5M_eugm0/edit?usp=sharing
-[msc5-repo]: 
+[msc5-repo]: https://github.com/DuckPato/LeepDearning/files/741830/Python.scripts.tar.gz
 
 ### Bachelor Students
 
@@ -202,7 +202,7 @@ Master and bachelor student developed during the week of the course a practical 
 | Team 2      |  [Slides][bsc2-slides]   | [Repo][bsc2-repo]  |
 | Team 3      |  [Slides][bsc3-slides]   | [Repo][bsc3-repo] |
 | Team 4      |  [Slides][bsc4-slides]   | [Repo][bsc4-repo] |
-| Team 5 (best project award)     |  [Slides][bsc5-slides]   | [Repo][bsc5-repo] |
+| Team 5 (award)     |  [Slides][bsc5-slides]   | [Repo][bsc5-repo] |
 
 [bsc1-slides]: https://docs.google.com/presentation/d/17Cy9p2LTxuEG_zlyBFxDOMs0aZm5KN_-Zq6MdmJz5SU/edit?usp=sharing
 [bsc1-repo]: https://github.com/telecombcn-dl/2017-dlsl-bsc-team1
