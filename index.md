@@ -38,7 +38,7 @@ The aim of this course is to train students in methods of deep learning for spee
 
 | ![Ahmad Mel][AhmadMel-photo] |  ![Carlos Escolano][CarlosEscolano-photo]  | ![AlbertAparicio][AlbertAparicio-photo]  | ![Manel Baradad][ManelBaradad-photo] | 
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [Ahmad Bel][AhmadMel-web]  | [Carlos Escolano][CarlosEscolano-web] |  [Albert Aparicio][AlbertAparicio-web] | [Manel Baradad][ManelBaradad-web]  |
+| [Ahmad Mel][AhmadMel-web]  | [Carlos Escolano][CarlosEscolano-web] |  [Albert Aparicio][AlbertAparicio-web] | [Manel Baradad][ManelBaradad-web]  |
 
 [AhmadMel-web]: http://directori.upc.edu/directori/dadesPersona.jsp?id=1221001
 [CarlosEscolano-web]: http://directori.upc.edu/directori/dadesPersona.jsp?id=1160293
