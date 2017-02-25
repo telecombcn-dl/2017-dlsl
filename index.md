@@ -92,11 +92,11 @@ If your company or organization is interested in sponsoring this course, please 
   
 | Topic                                 | Speaker |       Slideshare                 |  YouTube                        | 
 | ------------------------------------- |:-------:|:--------------------------------:|:-------------------------------:|
-| D1L2 The Perceptron                   | SP      | [Slides][perceptron-slides]      |   |
+| D1L2 The Perceptron                   | SP      | [Slides][perceptron-slides]      | [Video][perceptron-video]  |
 | D1L3 Convolutional Neural Networks    | ES      | [Slides][convolutional-slides]   |   |
-| D1L4 Basic Deep Architectures         | XG      | [Slides][architectures-slides]   |  |
-| D1L5 Backpropagation                  | ES      | [Slides][backprop-slides]        |   |
-| D1L6 Training                         | ES      | [Slides][training-slides]        | |
+| D1L4 Basic Deep Architectures         | XG      | [Slides][architectures-slides]   | [Video][architectures-video] |
+| D1L5 Backpropagation                  | ES      | [Slides][backprop-slides]        | [Video][backprop-video] |
+| D1L6 Training                         | ES      | [Slides][training-slides]        | [Video][training-video]|
 | D2L1 Deep Belief Networks             | ES      | [Slides][dbn-slides]             |   |
 | D2L2 Recurrent Neural Networks I      | SP      | [Slides][rnn1-slides]            |   |
 | D2L3 Recurrent Neural Networks II     | SP      | [Slides][rnn2-slides]            |  |
@@ -115,13 +115,15 @@ If your company or organization is interested in sponsoring this course, please 
 | D4L4 Multimodal Deep Learning         | XG      | [Slides][multimodal-slides]  | |
 | D5 Music Data Processing              | JP      | [Slides][music-slides]  | |
 
-
-
 [perceptron-slides]: http://www.slideshare.net/xavigiro/the-perceptron-d1l2-deep-learning-for-speech-and-language
+[perceptron-video]: https://www.youtube.com/watch?v=mmNGQ-lJzJQ
 [convolutional-slides]: http://www.slideshare.net/xavigiro/convolutional-neural-networks-d1l3-deep-learning-for-speech-and-language
 [architectures-slides]: http://www.slideshare.net/xavigiro/basic-deep-architectures-d1l4-deep-learning-for-speech-and-language
+[architectures-video]: https://www.youtube.com/watch?v=3JrE31H3TiY
 [backprop-slides]: http://www.slideshare.net/xavigiro/backpropagation-d1l5-deep-learning-for-speech-and-language
+[backprop-video]: https://www.youtube.com/watch?v=uub_hqDlqjc
 [training-slides]: http://www.slideshare.net/xavigiro/training-deep-networks-d1l6-deep-learning-for-speech-and-language
+[training-video]:https://www.youtube.com/watch?v=IrRecBlzVcQ
 
 [dbn-slides]: http://www.slideshare.net/xavigiro/deep-belief-networks-d2l1-deep-learning-for-speech-and-language-upc-2017
 [rnn1-slides]: http://www.slideshare.net/xavigiro/recurrent-neural-networks-1-d2l2-deep-learning-for-speech-and-language-upc-2017
