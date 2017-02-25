@@ -97,12 +97,12 @@ If your company or organization is interested in sponsoring this course, please 
 | D1L4 Basic Deep Architectures         | XG      | [Slides][architectures-slides]   | [Video][architectures-video] |
 | D1L5 Backpropagation                  | ES      | [Slides][backprop-slides]        | [Video][backprop-video] |
 | D1L6 Training                         | ES      | [Slides][training-slides]        | [Video][training-video]|
-| D2L1 Deep Belief Networks             | ES      | [Slides][dbn-slides]             |   |
-| D2L2 Recurrent Neural Networks I      | SP      | [Slides][rnn1-slides]            |   |
-| D2L3 Recurrent Neural Networks II     | SP      | [Slides][rnn2-slides]            |  |
-| D2L4 Word Embeddings                  | AB      | [Slides][embeddings-slides]      |   |
-| D2L5 Generative Adversarial Networks  | SP      | [Slides][gan-slides]             | |
-| D2L6 Advanced Deep Architectures      | XG      | [Slides][architectures2-slides]  | |
+| D2L1 Deep Belief Networks             | ES      | [Slides][dbn-slides]             | [Video][dbn-video]  |
+| D2L2 Recurrent Neural Networks I      | SP      | [Slides][rnn1-slides]            | [Video][rnn1-video] |
+| D2L3 Recurrent Neural Networks II     | SP      | [Slides][rnn2-slides]            | [Video][rnn2-video] |
+| D2L4 Word Embeddings                  | AB      | [Slides][embeddings-slides]      | [Video][embeddings-video] |
+| D2L5 Generative Adversarial Networks  | SP      | [Slides][gan-slides]             | [Video][gan-video] |
+| D2L6 Advanced Deep Architectures      | XG      | [Slides][architectures2-slides]  | [Video][architectures2-video] |
 | D3L1 Language Model                   | MR      | [Slides][language-slides]  | |
 | D3L2 Speech Recognition I             | AR      | [Slides][asr1-slides]  | |
 | D3L3 Speaker Identification I         | JH      | [Slides][speakerid1-slides]  | |
@@ -126,11 +126,17 @@ If your company or organization is interested in sponsoring this course, please 
 [training-video]:https://www.youtube.com/watch?v=IrRecBlzVcQ
 
 [dbn-slides]: http://www.slideshare.net/xavigiro/deep-belief-networks-d2l1-deep-learning-for-speech-and-language-upc-2017
+[dbn-video]: https://www.youtube.com/watch?v=zQOqiC8WJ0w
 [rnn1-slides]: http://www.slideshare.net/xavigiro/recurrent-neural-networks-1-d2l2-deep-learning-for-speech-and-language-upc-2017
+[rnn1-video]: https://www.youtube.com/watch?v=nVY3RyYYfH8
 [rnn2-slides]: http://www.slideshare.net/xavigiro/recurrent-neural-networks-2-d2l3-deep-learning-for-speech-and-language-upc-2017
+[rnn2-video]: https://www.youtube.com/watch?v=9BqhYeCrxRk
 [embeddings-slides]: http://www.slideshare.net/xavigiro/word-embeddings-d2l4-deep-learning-for-speech-and-language-upc-2017
+[embeddings-video]: https://www.youtube.com/watch?v=ADPZ-CuNLl8
 [gan-slides]: http://www.slideshare.net/xavigiro/generative-adversarial-networks-d2l5-deep-learning-for-speech-and-language-upc-2017
+[gan-video]: https://www.youtube.com/watch?v=tdDlYItPoUg
 [architectures2-slides]: http://www.slideshare.net/xavigiro/advanced-deep-architectures-d2l6-deep-learning-for-speech-and-language-upc-2017
+[architectures2-video]: https://www.youtube.com/watch?v=c_PzMR-g8lg
 
 [language-slides]: http://www.slideshare.net/xavigiro/language-model-d3l1-deep-learning-for-speech-and-language-upc-2017
 [asr1-slides]: http://www.slideshare.net/xavigiro/speech-recognition-with-deep-neural-networks-d3l2-deep-learning-for-speech-and-language-upc-2017
