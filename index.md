@@ -109,11 +109,11 @@ If your company or organization is interested in sponsoring this course, please 
 | D3L4 Neural Machine Translation I     | MR      | [Slides][nmt1-slides]             | [Video][nmt1-video] |
 | D3L5 Speech Synthesis I               | AB      | [Slides][synthesis-slides]        | [Video][synthesis-video] |
 | D3L6 Speech Recognition II            | JA      | [Slides][asr2-slides]             | [Video][asr2-video] |
-| D4L1 Speaker Identification II        | JH      | [Slides][speakerid2-slides]  | |
-| D4L2 Neural Machine Translation II    | JH      | [Slides][nmt2-slides]  | |
-| D4L3 Speech Synthesis II:WaveNet      | AB      | [Slides][wavenet-slides]  | |
-| D4L4 Multimodal Deep Learning         | XG      | [Slides][multimodal-slides]  | |
-| D5 Music Data Processing              | JP      | [Slides][music-slides]  | |
+| D4L1 Speaker Identification II        | JH      | [Slides][speakerid2-slides]       | [Video][speakerid2-video] |
+| D4L2 Neural Machine Translation II    | JH      | [Slides][nmt2-slides]             | [Video][nmt2-video] |
+| D4L3 Speech Synthesis II:WaveNet      | AB      | [Slides][wavenet-slides]          | [Video][wavenet-video] |
+| D4L4 Multimodal Deep Learning         | XG      | [Slides][multimodal-slides]       | [Video][multimodal-video] |
+| D5 Music Data Processing              | JP      | [Slides][music-slides]            | [Video][music-video] |
 
 [perceptron-slides]: http://www.slideshare.net/xavigiro/the-perceptron-d1l2-deep-learning-for-speech-and-language
 [perceptron-video]: https://www.youtube.com/watch?v=mmNGQ-lJzJQ
@@ -152,11 +152,16 @@ If your company or organization is interested in sponsoring this course, please 
 [asr2-video]: https://www.youtube.com/watch?v=Wb88ykLqcys
 
 [speakerid2-slides]: http://www.slideshare.net/xavigiro/speaker-id-ii-d4l1-deep-learning-for-speech-and-language-upc-2017
+[speakerid2-video]: https://www.youtube.com/watch?v=m70hIoOen_8
 [nmt2-slides]: http://www.slideshare.net/xavigiro/advanced-neural-machine-translation-d4l2-deep-learning-for-speech-and-language-upc-2017
+[nmt2-video]: https://www.youtube.com/watch?v=Y70PMNxov-0
 [wavenet-slides]: http://www.slideshare.net/xavigiro/speech-synthesis-wavenet-d4l1-deep-learning-for-speech-and-language-upc-2017
+[wavenet-video]: https://www.youtube.com/watch?v=enWBo9B6pXw
 [multimodal-slides]: http://www.slideshare.net/xavigiro/multimodal-deep-learning-d4l4-deep-learning-for-speech-and-language-upc-2017
+[multimodal-video]: https://www.youtube.com/watch?v=djofjUx8AhU
 
 [music-slides]: https://github.com/telecombcn-dl/2017-dlsl/raw/master/DL4Music_Pons.pdf
+[music-video]: https://www.youtube.com/watch?v=xbI8WxA5-mg
 
 
 
