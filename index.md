@@ -103,12 +103,12 @@ If your company or organization is interested in sponsoring this course, please 
 | D2L4 Word Embeddings                  | AB      | [Slides][embeddings-slides]      | [Video][embeddings-video] |
 | D2L5 Generative Adversarial Networks  | SP      | [Slides][gan-slides]             | [Video][gan-video] |
 | D2L6 Advanced Deep Architectures      | XG      | [Slides][architectures2-slides]  | [Video][architectures2-video] |
-| D3L1 Language Model                   | MR      | [Slides][language-slides]  | |
-| D3L2 Speech Recognition I             | AR      | [Slides][asr1-slides]  | |
-| D3L3 Speaker Identification I         | JH      | [Slides][speakerid1-slides]  | |
-| D3L4 Neural Machine Translation I     | MR      | [Slides][nmt1-slides]  | |
-| D3L5 Speech Synthesis I               | AB      | [Slides][synthesis-slides]  | |
-| D3L6 Speech Recognition II            | JA      | [Slides][asr2-slides]  | |
+| D3L1 Language Model                   | MR      | [Slides][language-slides]        | [Video][language-video] |
+| D3L2 Speech Recognition I             | AR      | [Slides][asr1-slides]             | [Video][asr1-video] |
+| D3L3 Speaker Identification I         | JH      | [Slides][speakerid1-slides]       | [Video][speakerid1-video] |
+| D3L4 Neural Machine Translation I     | MR      | [Slides][nmt1-slides]             | [Video][nmt1-video] |
+| D3L5 Speech Synthesis I               | AB      | [Slides][synthesis-slides]        | [Video][synthesis-video] |
+| D3L6 Speech Recognition II            | JA      | [Slides][asr2-slides]             | [Video][asr2-video] |
 | D4L1 Speaker Identification II        | JH      | [Slides][speakerid2-slides]  | |
 | D4L2 Neural Machine Translation II    | JH      | [Slides][nmt2-slides]  | |
 | D4L3 Speech Synthesis II:WaveNet      | AB      | [Slides][wavenet-slides]  | |
@@ -139,11 +139,17 @@ If your company or organization is interested in sponsoring this course, please 
 [architectures2-video]: https://www.youtube.com/watch?v=c_PzMR-g8lg
 
 [language-slides]: http://www.slideshare.net/xavigiro/language-model-d3l1-deep-learning-for-speech-and-language-upc-2017
+[language-video]: https://www.youtube.com/watch?v=WL7N-UFT5JQ
 [asr1-slides]: http://www.slideshare.net/xavigiro/speech-recognition-with-deep-neural-networks-d3l2-deep-learning-for-speech-and-language-upc-2017
+[asr1-video]: https://www.youtube.com/watch?v=jE4SJFBA9Jo
 [speakerid1-slides]: http://www.slideshare.net/xavigiro/speaker-id-d3l3-deep-learning-for-speech-and-language-upc-2017
+[speakerid1-video]: https://www.youtube.com/watch?v=J2PE0lKSWpA
 [nmt1-slides]: http://www.slideshare.net/xavigiro/neural-machine-translation-d3l4-deep-learning-for-speech-and-language-upc-2017
+[nmt1-video]: https://www.youtube.com/watch?v=Z0A9lur6Nfw
 [synthesis-slides]: http://www.slideshare.net/xavigiro/parametric-speech-synthesis-d3l5-deep-learning-for-speech-and-language-upc-2017
+[synthesis-video]: https://www.youtube.com/watch?v=Wr8TMqmp-5Q
 [asr2-slides]: http://www.slideshare.net/xavigiro/endtoend-speech-recognition-with-recurrent-neural-networks-d3l6-deep-learning-for-speech-and-language-upc-2017
+[asr2-video]: https://www.youtube.com/watch?v=Wb88ykLqcys
 
 [speakerid2-slides]: http://www.slideshare.net/xavigiro/speaker-id-ii-d4l1-deep-learning-for-speech-and-language-upc-2017
 [nmt2-slides]: http://www.slideshare.net/xavigiro/advanced-neural-machine-translation-d4l2-deep-learning-for-speech-and-language-upc-2017
