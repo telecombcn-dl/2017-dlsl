@@ -88,7 +88,7 @@ The aim of this course is to train students in methods of deep learning for spee
 
 If your company or organization is interested in sponsoring this course, please contact [Professor Antonio Bonafonte](antonio.bonafonte@upc.edu).
 
-## Slides (videos coming soon)
+## Slides and Videos
   
 | Topic                                 | Speaker |       Slideshare                 |  YouTube                        | 
 | ------------------------------------- |:-------:|:--------------------------------:|:-------------------------------:|
