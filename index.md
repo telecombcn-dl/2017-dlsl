@@ -282,7 +282,7 @@ If you liked this seminar, you may want to check the [Deep Learning for Computer
 
 ## Related courses
 
-* Phil Blunsom et al, ["Oxford Deep NLP 2017 course"](https://github.com/oxford-cs-deepnlp-2017/lectures). Oxford University 2017.
+* Phil Blunsom et al, ["Oxford Deep NLP 2017 course"](https://github.com/oxford-cs-deepnlp-2017/lectures). Oxford University 2017. [[videos](http://nuit-blanche.blogspot.com.es/2017/02/saturday-morning-videos-oxford-deep-nlp.html)]
 * Richard Socher, ["CS224d: Deep Learning for Natural Language Processing"](http://cs224d.stanford.edu/). Stanford University 2016.
 * Thang Luong, Kyunghyun Cho, Christopher Manning ["Neural Machine Translation"](https://sites.google.com/site/acl16nmt/). Tutorial ACL 2016.
 * Aaron Courville and Yoshua Bengio, ["Deep Learning Summer School"](https://sites.google.com/site/deeplearningsummerschool2016/home). Montreal 2016.
