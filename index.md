@@ -110,7 +110,7 @@ If your company or organization is interested in sponsoring this course, please 
 | D3L5 Speech Synthesis I               | AB      | [Slides][synthesis-slides]        | [Video][synthesis-video] |
 | D3L6 Speech Recognition II            | JA      | [Slides][asr2-slides]             | [Video][asr2-video] |
 | D4L1 Speaker Identification II        | JH      | [Slides][speakerid2-slides]       | [Video][speakerid2-video] |
-| D4L2 Neural Machine Translation II    | JH      | [Slides][nmt2-slides]             | [Video][nmt2-video] |
+| D4L2 Neural Machine Translation II    | MR      | [Slides][nmt2-slides]             | [Video][nmt2-video] |
 | D4L3 Speech Synthesis II:WaveNet      | AB      | [Slides][wavenet-slides]          | [Video][wavenet-video] |
 | D4L4 Multimodal Deep Learning         | XG      | [Slides][multimodal-slides]       | [Video][multimodal-video] |
 | D5 Music Data Processing              | JP      | [Slides][music-slides]            | [Video][music-video] |
